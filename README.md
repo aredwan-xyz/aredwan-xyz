@@ -4,22 +4,22 @@
 <!--      Theme: Dark Green / Neon · "Terminal Bioluminescence"      -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c06,25:052e16,55:0a3d2a,80:14532d,100:020c06&height=220&section=header&text=Abid%20Redwan&fontSize=65&fontColor=39ff14&fontAlignY=40&animation=fadeIn&desc=AI%20Builder%20%C2%B7%20Experience%20Designer%20%C2%B7%20IoT%20Engineer&descSize=19&descColor=7ee787&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c06,25:052e16,55:0a3d2a,80:14532d,100:020c06&height=220&section=header&text=Abid%20Redwan&fontSize=65&fontColor=2ea043&fontAlignY=40&animation=fadeIn&desc=AI%20Builder%20%C2%B7%20Experience%20Designer%20%C2%B7%20IoT%20Engineer&descSize=19&descColor=7ee787&descAlignY=60" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=780&lines=🤖+Building+multi-agent+AI+systems+that+actually+ship;🎨+Designing+interfaces+where+AI+disappears+into+UX;📡+Connecting+physical+spaces+to+intelligent+systems;🚀+7%2B+years+at+the+edge+of+AI+×+Design+×+IoT;⚡+Voice+agents+under+800ms+latency+—+in+production;💡+Open+to+senior+roles+%26+high-impact+collaborations)](https://github.com/aredwan-xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=2EA043&center=true&vCenter=true&width=780&lines=🤖+Building+multi-agent+AI+systems+that+actually+ship;🎨+Designing+interfaces+where+AI+disappears+into+UX;📡+Connecting+physical+spaces+to+intelligent+systems;🚀+7%2B+years+at+the+edge+of+AI+×+Design+×+IoT;⚡+Voice+agents+under+800ms+latency+—+in+production;💡+Open+to+senior+roles+%26+high-impact+collaborations)](https://github.com/aredwan-xyz)
 
 <br/>
 
-![Available](https://img.shields.io/badge/✅_Available_for_Hire-00C851?style=for-the-badge&logoColor=white)&nbsp;![Remote](https://img.shields.io/badge/🌍_Remote_Worldwide-059669?style=for-the-badge&logoColor=white)&nbsp;![Response](https://img.shields.io/badge/⚡_Replies_within_24h-047857?style=for-the-badge&logoColor=white)
+![Available](https://img.shields.io/badge/✅_Available_for_Hire-2ea043?style=for-the-badge&logoColor=white)&nbsp;![Remote](https://img.shields.io/badge/🌍_Remote_Worldwide-15803d?style=for-the-badge&logoColor=white)&nbsp;![Response](https://img.shields.io/badge/⚡_Replies_within_24h-0f5132?style=for-the-badge&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_aredwan.com-052e16?style=for-the-badge&logoColor=39ff14&labelColor=052e16&color=064e3b)](http://aredwan.com)
-[![Email](https://img.shields.io/badge/Email-052e16?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:aredwan.tech@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-052e16?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/aredwan)
-[![Twitter/X](https://img.shields.io/badge/X-052e16?style=for-the-badge&logo=x&logoColor=39ff14)](https://x.com/aredwanx)
+[![Portfolio](https://img.shields.io/badge/🌐_aredwan.com-052e16?style=for-the-badge&logoColor=2ea043&labelColor=052e16&color=064e3b)](https://www.aredwan.com)
+[![Email](https://img.shields.io/badge/Email-052e16?style=for-the-badge&logo=gmail&logoColor=2ea043)](mailto:aredwan.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-052e16?style=for-the-badge&logo=linkedin&logoColor=2ea043)](https://linkedin.com/in/aredwan)
+[![Twitter/X](https://img.shields.io/badge/X-052e16?style=for-the-badge&logo=x&logoColor=2ea043)](https://x.com/aredwanx)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aredwan-xyz&color=2ea043&style=flat-square&label=Profile+Views)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/aredwan-xyz?style=flat-square&color=2ea043&label=Followers)](https://github.com/aredwan-xyz)&nbsp;
@@ -45,7 +45,7 @@
 
 <!-- ═══════ ABOUT ═══════ -->
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=aredwan-xyz&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787&ring_color=39ff14" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=aredwan-xyz&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787&ring_color=2ea043" />
 
 ### 🧬 `whoami`
 
@@ -87,7 +87,7 @@ I live at the intersection of **AI engineering**, **human-centred design**, and 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aredwan-xyz&hide_border=true&background=0D1117&stroke=14532d&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&currStreakNum=39ff14&sideLabels=7ee787&sideNums=7ee787&dates=8b949e)](https://github.com/aredwan-xyz)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aredwan-xyz&hide_border=true&background=0D1117&stroke=14532d&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&currStreakNum=2ea043&sideLabels=7ee787&sideNums=7ee787&dates=8b949e)](https://github.com/aredwan-xyz)
 
 </div>
 
@@ -125,7 +125,7 @@ problem                 the code                real world              compound
 Real-time AI phone agent with barge-in interruption, voice activity detection, and live tool calls.
 *Because phone calls shouldn't feel like talking to a 2005 IVR menu.*
 
-[![codebeez-ai-phone-agent](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=codebeez-ai-phone-agent&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787)](https://github.com/aredwan-xyz/codebeez-ai-phone-agent)
+[![codebeez-ai-phone-agent](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=codebeez-ai-phone-agent&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787)](https://github.com/aredwan-xyz/codebeez-ai-phone-agent)
 
 ---
 
@@ -134,7 +134,7 @@ Real-time AI phone agent with barge-in interruption, voice activity detection, a
 Production multi-agent framework connecting AI reasoning with real business tools — built at CodeBeez.
 *Orchestrate agents that actually get work done — not just demo videos.*
 
-[![codebeez-ai-autopilot](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=codebeez-ai-autopilot&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787)](https://github.com/aredwan-xyz/codebeez-ai-autopilot)
+[![codebeez-ai-autopilot](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=codebeez-ai-autopilot&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787)](https://github.com/aredwan-xyz/codebeez-ai-autopilot)
 
 ---
 
@@ -143,7 +143,7 @@ Production multi-agent framework connecting AI reasoning with real business tool
 Automated AI news digest for developers and engineers — curated, summarised, delivered daily via GitHub Actions.
 *Never fall behind the frontier again.*
 
-[![techpulse-daily](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=techpulse-daily&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787)](https://github.com/aredwan-xyz/techpulse-daily)
+[![techpulse-daily](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=techpulse-daily&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787)](https://github.com/aredwan-xyz/techpulse-daily)
 
 ---
 
@@ -152,7 +152,7 @@ Automated AI news digest for developers and engineers — curated, summarised, d
 Every stage from identity to offer negotiation — documented, systemised, open-sourced.
 *Treat your career like a product. Ship it.*
 
-[![career-os-framework](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=career-os-framework&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787)](https://github.com/aredwan-xyz/career-os-framework)
+[![career-os-framework](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=career-os-framework&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787)](https://github.com/aredwan-xyz/career-os-framework)
 
 ---
 
@@ -161,7 +161,7 @@ Every stage from identity to offer negotiation — documented, systemised, open-
 Comprehensive AI learning repository — models, agents, tools, papers, and production patterns.
 *The resource I wish existed when I started.*
 
-[![ai-mastery-ultimate-resources](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=ai-mastery-ultimate-resources&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787)](https://github.com/aredwan-xyz/ai-mastery-ultimate-resources)
+[![ai-mastery-ultimate-resources](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=ai-mastery-ultimate-resources&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787)](https://github.com/aredwan-xyz/ai-mastery-ultimate-resources)
 
 ---
 
@@ -170,7 +170,7 @@ Comprehensive AI learning repository — models, agents, tools, papers, and prod
 The most comprehensive AI, innovation & technology resource hub by CodeBeez.
 *Curated for builders, not browsers.*
 
-[![codebeez-innovation-resources](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=codebeez-innovation-resources&hide_border=true&bg_color=0D1117&title_color=39ff14&icon_color=39ff14&text_color=7ee787)](https://github.com/aredwan-xyz/codebeez-innovation-resources)
+[![codebeez-innovation-resources](https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=codebeez-innovation-resources&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787)](https://github.com/aredwan-xyz/codebeez-innovation-resources)
 
 </div>
 
@@ -184,48 +184,48 @@ The most comprehensive AI, innovation & technology resource hub by CodeBeez.
 
 **🎨 Design & Frontend**
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39ff14)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=39ff14)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39ff14)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=39ff14)
-![Framer Motion](https://img.shields.io/badge/Framer-0D1117?style=flat-square&logo=framer&logoColor=39ff14)
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=39ff14)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=39ff14)
-![WebXR](https://img.shields.io/badge/WebXR-0D1117?style=flat-square&logo=webgl&logoColor=39ff14)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=2ea043)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=2ea043)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2ea043)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=2ea043)
+![Framer Motion](https://img.shields.io/badge/Framer-0D1117?style=flat-square&logo=framer&logoColor=2ea043)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=2ea043)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=2ea043)
+![WebXR](https://img.shields.io/badge/WebXR-0D1117?style=flat-square&logo=webgl&logoColor=2ea043)
 
 **🛠️ Backend & Infrastructure**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39ff14)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39ff14)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39ff14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=39ff14)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=39ff14)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=39ff14)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39ff14)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=39ff14)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39ff14)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=2ea043)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2ea043)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=2ea043)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2ea043)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=2ea043)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=2ea043)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2ea043)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=2ea043)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=2ea043)
 
 **🤖 AI / ML & Agentic Systems**
 
-![Claude](https://img.shields.io/badge/Claude_/_Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=39ff14)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=39ff14)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=39ff14)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langgraph&logoColor=39ff14)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=39ff14)
-![CrewAI](https://img.shields.io/badge/CrewAI-0D1117?style=flat-square&logo=crewai&logoColor=39ff14)
-![AutoGen](https://img.shields.io/badge/AutoGen-0D1117?style=flat-square&logo=microsoft&logoColor=39ff14)
-![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&logo=pinecone&logoColor=39ff14)
-![Whisper](https://img.shields.io/badge/Whisper-0D1117?style=flat-square&logo=openai&logoColor=39ff14)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0D1117?style=flat-square&logo=elevenlabs&logoColor=39ff14)
+![Claude](https://img.shields.io/badge/Claude_/_Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=2ea043)
+![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=2ea043)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=2ea043)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langgraph&logoColor=2ea043)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=2ea043)
+![CrewAI](https://img.shields.io/badge/CrewAI-0D1117?style=flat-square&logo=crewai&logoColor=2ea043)
+![AutoGen](https://img.shields.io/badge/AutoGen-0D1117?style=flat-square&logo=microsoft&logoColor=2ea043)
+![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&logo=pinecone&logoColor=2ea043)
+![Whisper](https://img.shields.io/badge/Whisper-0D1117?style=flat-square&logo=openai&logoColor=2ea043)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0D1117?style=flat-square&logo=elevenlabs&logoColor=2ea043)
 
 **📡 IoT & Physical Computing**
 
-![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logo=mqtt&logoColor=39ff14)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=39ff14)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=39ff14)
-![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=39ff14)
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=39ff14)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-0D1117?style=flat-square&logo=homeassistant&logoColor=39ff14)
+![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logo=mqtt&logoColor=2ea043)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=2ea043)
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=2ea043)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=2ea043)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=2ea043)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-0D1117?style=flat-square&logo=homeassistant&logoColor=2ea043)
 
 </div>
 
@@ -237,7 +237,7 @@ The most comprehensive AI, innovation & technology resource hub by CodeBeez.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredwan-xyz&layout=donut&hide_border=true&bg_color=0D1117&title_color=39ff14&text_color=7ee787&langs_count=8" />&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredwan-xyz&layout=donut&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=7ee787&langs_count=8" />&nbsp;&nbsp;
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aredwan-xyz&theme=github_dark&utcOffset=-5" />
 
 </div>
@@ -262,7 +262,7 @@ The most comprehensive AI, innovation & technology resource hub by CodeBeez.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aredwan-xyz&bg_color=0D1117&color=39ff14&line=00ff9f&point=39ff14&area=true&area_color=052e16&hide_border=true&title_color=39ff14&custom_title=Abid's+Contribution+Graph)](https://github.com/aredwan-xyz)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aredwan-xyz&bg_color=0D1117&color=2ea043&line=3fb950&point=2ea043&area=true&area_color=052e16&hide_border=true&title_color=2ea043&custom_title=Abid's+Contribution+Graph)](https://github.com/aredwan-xyz)
 
 </div>
 
@@ -351,7 +351,7 @@ It's about software that knows where you are, what you need, and gets out of the
 | 🎯 Open to | 📋 What I Bring | 💰 How to Start |
 |:---:|:---:|:---:|
 | Remote Senior / Lead Roles | 7 yrs · AI + UX + IoT | [Email me](mailto:aredwan.tech@gmail.com) |
-| Freelance / Contract | Full-stack · Multi-agent AI | [Visit portfolio](http://aredwan.com) |
+| Freelance / Contract | Full-stack · Multi-agent AI | [Visit portfolio](https://www.aredwan.com) |
 | Founding Engineer Opportunities | Design systems · Voice AI | [Connect on LinkedIn](https://linkedin.com/in/aredwan) |
 | AI Strategy Consulting | Agentic architecture · UX | [Follow on X](https://x.com/aredwanx) |
 
@@ -362,10 +362,10 @@ It's about software that knows where you are, what you need, and gets out of the
 
 <br/>
 
-[![📬 Email Me](https://img.shields.io/badge/📬_Email_Me-052e16?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:aredwan.tech@gmail.com)&nbsp;
-[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-064e3b?style=for-the-badge&logo=vercel&logoColor=39ff14)](http://aredwan.com)&nbsp;
-[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-052e16?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/aredwan)&nbsp;
-[![𝕏 Follow](https://img.shields.io/badge/𝕏_Follow-052e16?style=for-the-badge&logo=x&logoColor=39ff14)](https://x.com/aredwanx)
+[![📬 Email Me](https://img.shields.io/badge/📬_Email_Me-052e16?style=for-the-badge&logo=gmail&logoColor=2ea043)](mailto:aredwan.tech@gmail.com)&nbsp;
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-064e3b?style=for-the-badge&logo=vercel&logoColor=2ea043)](https://www.aredwan.com)&nbsp;
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-052e16?style=for-the-badge&logo=linkedin&logoColor=2ea043)](https://linkedin.com/in/aredwan)&nbsp;
+[![𝕏 Follow](https://img.shields.io/badge/𝕏_Follow-052e16?style=for-the-badge&logo=x&logoColor=2ea043)](https://x.com/aredwanx)
 
 </div>
 
