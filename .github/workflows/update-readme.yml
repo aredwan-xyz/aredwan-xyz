@@ -7,10 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    # Only re-run when the generator itself changes (prevents commit loops)
-    paths:
-      - ".github/scripts/update_readme.py"
-      - ".github/workflows/update-readme.yml"
+    # Loops are prevented by the [skip ci] tag on the bot's own commits below
 
 permissions:
   contents: write
@@ -33,6 +30,8 @@ jobs:
       - name: Regenerate dynamic sections
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional — add this repo secret to enable the WakaTime section
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: python .github/scripts/update_readme.py
 
       - name: Commit & push if changed

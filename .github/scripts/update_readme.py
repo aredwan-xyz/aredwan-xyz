@@ -6,8 +6,12 @@ GITHUB_TOKEN is enough) and rewrites the marker-delimited sections of
 README.md in place. Each section updates independently and leaves the
 existing content untouched if its fetch fails, so a transient API hiccup
 can never blank out the profile.
+
+WakaTime is optional: set the WAKATIME_API_KEY secret to enable it. Until
+then, that section keeps its placeholder.
 """
 
+import base64
 import json
 import os
 import urllib.request
@@ -150,6 +154,39 @@ def section_snapshot(repos):
             f"<b>{user['followers']}</b> followers")
 
 
+def section_wakatime():
+    """WakaTime last-7-days language breakdown.
+
+    Returns None when WAKATIME_API_KEY isn't set, so the section keeps its
+    placeholder until the user wires up the secret — no failures, no blanks.
+    """
+    key = os.environ.get("WAKATIME_API_KEY")
+    if not key:
+        return None
+    auth = base64.b64encode(key.encode()).decode()
+    req = urllib.request.Request(
+        "https://wakatime.com/api/v1/users/current/stats/last_7_days",
+        headers={"Authorization": f"Basic {auth}", "User-Agent": f"{USER}-profile-bot"},
+    )
+    with urllib.request.urlopen(req, timeout=30) as r:
+        data = json.load(r)["data"]
+    langs = data.get("languages", [])[:6]
+    if not langs:
+        return "```text\nNo coding activity tracked in the last 7 days yet.\n```"
+    width = 25
+    rows = []
+    for lang in langs:
+        name = lang["name"][:12]
+        text = lang.get("text", "0 secs")
+        pct = float(lang.get("percent", 0.0))
+        filled = round(pct / 100 * width)
+        bar = "█" * filled + "░" * (width - filled)
+        rows.append(f"{name:<13}{text:<16}{bar} {pct:>5.1f}%")
+    total = data.get("human_readable_total", "")
+    header = f"**🗓️ Last 7 days — {total} of tracked coding**\n\n" if total else ""
+    return header + "```text\n" + "\n".join(rows) + "\n```"
+
+
 def main():
     with open(README, encoding="utf-8") as f:
         text = f.read()
@@ -170,6 +207,13 @@ def main():
         text = splice(text, "ACTIVITY", section_activity())
     except Exception as ex:
         print("  ! activity failed:", ex)
+
+    try:
+        waka = section_wakatime()
+        if waka is not None:
+            text = splice(text, "WAKA", waka)
+    except Exception as ex:
+        print("  ! wakatime failed:", ex)
 
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     text = splice(text, "UPDATED",
