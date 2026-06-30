@@ -1,101 +1,64 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--   THE REDWAN REVIEW · GitHub Profile README                            -->
-<!--   Design: Editorial / magazine · dark-green · bespoke SVG masthead      -->
+<!--   ABID REDWAN · GitHub Profile README                                   -->
+<!--   Design: Interactive portfolio / lab-notebook · network-diagram hero   -->
 <!--   Live sections auto-generated — see .github/scripts/update_readme.py   -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <a id="top"></a>
 
-<!-- ═══════════════ MASTHEAD (bespoke, theme-adaptive SVG) ═══════════════ -->
+<!-- ═══════════════ HERO (bespoke, theme-adaptive network diagram) ═══════════════ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-light.svg">
-  <img width="100%" alt="THE REDWAN REVIEW — AI Engineering · Experience Design · Ambient Computing" src="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-dark.svg">
-</picture>
-
-<!-- ═══════════════ COVER BAND (animated "now building" ticker) ═══════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/cover-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/cover-light.svg">
-  <img width="100%" alt="Now building — codebeez-ai-phone-agent · StartupLabs · LearnQNTM · WellWise · The Halal Way · techpulse-daily" src="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/cover-dark.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/hero-light.svg">
+  <img width="100%" alt="Abid Redwan — Founder, CodeBeez. A network of ventures: StartupLabs, LearnQNTM, WellWise, The Halal Way." src="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/hero-dark.svg">
 </picture>
 
 <div align="center">
 
-**Abid Redwan** &nbsp;—&nbsp; Founder of **[CodeBeez](https://codebeez.xyz)** &nbsp;·&nbsp; AI Systems Engineer × Product Designer &nbsp;·&nbsp; 🟢 open to roles, clients & collaborations
+🟢 &nbsp;open to senior / lead roles, founding opportunities & select clients
 
-[![Portfolio](https://img.shields.io/badge/aredwan.com-0d1117?style=flat&logo=safari&logoColor=2ea043)](https://www.aredwan.com) &nbsp;[![CodeBeez](https://img.shields.io/badge/codebeez.xyz-0d1117?style=flat&logo=hive&logoColor=2ea043)](https://codebeez.xyz) &nbsp;[![Email](https://img.shields.io/badge/email-0d1117?style=flat&logo=gmail&logoColor=2ea043)](mailto:aredwan.tech@gmail.com) &nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=2ea043)](https://linkedin.com/in/aredwan) &nbsp;[![X](https://img.shields.io/badge/x-0d1117?style=flat&logo=x&logoColor=2ea043)](https://x.com/aredwanx)
+[CodeBeez](https://codebeez.xyz) &nbsp;·&nbsp; [Portfolio](https://www.aredwan.com) &nbsp;·&nbsp; [Email](mailto:aredwan.tech@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/aredwan) &nbsp;·&nbsp; [X](https://x.com/aredwanx)
+
+<sub>[Profile](#profile) · [Ventures](#ventures) · [Open Lab](#open-lab) · [Live Signal](#signal) · [Toolkit](#toolkit) · [Principles](#principles) · [Numbers](#numbers) · [Contact](#contact)</sub>
 
 </div>
 
 ---
 
-<!-- ═══════════════ COVER LINE ═══════════════ -->
+<a id="profile"></a>
 
-<div align="center">
-
-## *"Deep tech for the human future."*
-
-**Abid Redwan** is a founder and AI systems engineer who ships **whole products** — model, interface, and infrastructure as one.
-Through **[CodeBeez](https://codebeez.xyz)** he's launched platforms across entrepreneurship, deep-tech education, healthcare, and faith —
-each one built on the same belief: *the best technology disappears into the experience.*
-
-<sub>7+ YEARS IN THE FIELD &nbsp;·&nbsp; AI SYSTEMS · VOICE AGENTS · PRODUCT DESIGN · AMBIENT COMPUTING &nbsp;·&nbsp; TORONTO → EVERYWHERE</sub>
-
-</div>
-
----
-
-<!-- ═══════════════ CONTENTS ═══════════════ -->
-
-### ❡ &nbsp; IN THIS ISSUE
-
-| | Department | The story |
-|:--|:--|:--|
-| `01` | **The Feature** | Who he is, and the seam he works at |
-| `02` | **Ventures** | CodeBeez & four live products |
-| `03` | **The Open Lab** | Open-source systems that run themselves |
-| `04` | **Dispatch** | Live from the TechPulse wire |
-| `05` | **New on the Press** | Most recent builds, straight from the API |
-| `06` | **On the Record** | Recent activity |
-| `07` | **The Toolkit** | The full stack |
-| `08` | **Field Notes** | Six principles for building |
-| `09` | **By the Numbers** | Stats, streak, activity, output |
-| `10` | **Commissions** | How to work with him |
-
----
-
-<!-- ═══════════════ 01 · THE FEATURE ═══════════════ -->
-
-### ❡ &nbsp; 01 · THE FEATURE
-<sub>WHO HE IS — WHAT HE BUILDS</sub>
+## § 01 — Profile
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-**A**bid Redwan is a founder who builds at the seam most teams split across three hires — **AI engineering**, **product design**, and **systems thinking**. He does all three, which is why his products feel *whole* instead of stitched together.
+Abid Redwan studies the seam between AI engineering, product design, and systems thinking — and builds there instead of choosing a side. He's the founder of **[CodeBeez](https://codebeez.xyz)**, where that approach has shipped four live products across four unrelated fields: startups, quantum education, senior care, and faith.
 
-He runs **[CodeBeez](https://codebeez.xyz)** — a studio shipping *deep tech for the human future*. Under it: a platform that turns ideas into startups, a school that makes quantum computing simple, an AI companion that watches over seniors, and a calm place to learn faith. Four different worlds, one throughline — **technology that gets out of the way.**
+The method holds steady across all of them: observe closely, design for restraint, let the engineering disappear into the result. A voice agent that just *understands*. A dashboard a caregiver checks once and trusts. The interesting part is never the part the user sees.
 
-The most sophisticated thing in most of his builds is the part you never notice. Seven years in, that's still the goal.
+<details>
+<summary><b>Read the longer version →</b></summary>
+<br>
 
-> *"The best brief I've ever gotten: 'We have a problem nobody's solved yet.' That's the one I take."*
+Seven years in — across IoT, ambient interfaces, and now agentic AI — the throughline hasn't moved: the best systems are the ones nobody has to think about. That's a design problem as much as an engineering one, which is why Abid works both sides of it himself rather than handing the seam to someone else.
+
+He's based in Toronto and works with teams everywhere — currently splitting time between CodeBeez's four products and select consulting work, where the brief is genuinely unsolved.
+
+</details>
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
-> **FACT FILE**
+> **FIELD NOTES**
 >
-> **Role** &nbsp;·&nbsp; Founder · AI Systems Engineer
-> **Studio** &nbsp;·&nbsp; [CodeBeez](https://codebeez.xyz)
-> **Base** &nbsp;·&nbsp; Toronto, CA · remote worldwide
-> **Beat** &nbsp;·&nbsp; AI products · voice agents · ambient UX
-> **Ships** &nbsp;·&nbsp; model + interface + infra, end to end
-> **Years** &nbsp;·&nbsp; 7+, production systems
-> **Status** &nbsp;·&nbsp; 🟢 open · roles · clients · collabs
+> **Founder** &nbsp;·&nbsp; [CodeBeez](https://codebeez.xyz)
+> **Discipline** &nbsp;·&nbsp; AI systems · product design
+> **Based** &nbsp;·&nbsp; Toronto, CA · remote-first
+> **Method** &nbsp;·&nbsp; model + interface + infra, one person
+> **Active since** &nbsp;·&nbsp; 2019, production systems
+> **Status** &nbsp;·&nbsp; 🟢 open to roles, clients, collaborators
 
 </td>
 </tr>
@@ -103,56 +66,46 @@ The most sophisticated thing in most of his builds is the part you never notice.
 
 ---
 
-<!-- ═══════════════ 02 · VENTURES ═══════════════ -->
+<a id="ventures"></a>
 
-### ❡ &nbsp; 02 · VENTURES
-<sub>THE STUDIO & WHAT IT SHIPS</sub>
+## § 02 — Ventures
 
-> ### 🐝 &nbsp; [CodeBeez](https://codebeez.xyz) — *"Deep Tech for the Human Future."*
-> The studio behind the work: AI systems, ambient interfaces, and products that put advanced technology in service of real people. Four live platforms, four different worlds:
+<sub>CODEBEEZ — "DEEP TECH FOR THE HUMAN FUTURE" — AND WHAT IT'S SHIPPED</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🚀 [StartupLabs](https://startuplabs.digital)
-***"Your next startup begins here."***
+**🚀 [StartupLabs](https://startuplabs.digital)**
+*Your next startup begins here.*
 
-Idea-to-launch platform: **154+ market-validated** startup ideas, an AI idea generator, week-by-week bootstrap playbooks, and progress tracking. For founders, indie hackers, and builders.
-
-<sub>`Next.js` · `AI` · `product`</sub>
+154+ market-validated startup ideas, an AI idea generator, and week-by-week playbooks — for founders who'd rather build than guess.
 
 </td>
 <td width="50%" valign="top">
 
-#### ⚛️ [LearnQNTM](https://learnqntm.com)
-***"Quantum made beautifully simple."***
+**⚛️ [LearnQNTM](https://learnqntm.com)**
+*Quantum, made beautifully simple.*
 
-Interactive quantum-computing school — **3D state visualizers**, drag-and-drop circuit builders, and live simulators. From qubits to Shor's algorithm, no physics background required.
-
-<sub>`education` · `3D / WebGL` · `simulation`</sub>
+Interactive 3D state visualizers and circuit builders that teach quantum computing from qubits to Shor's algorithm — no physics required.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🩺 [WellWise](https://wellwise.care)
-***"Your caring AI companion for daily wellness."***
+**🩺 [WellWise](https://wellwise.care)**
+*A caring AI companion for daily wellness.*
 
-Voice-first AI for seniors — gentle conversation, smart medication & hydration reminders, activity tracking, emergency alerts, and a **caregiver dashboard** for families.
-
-<sub>`voice AI` · `healthcare` · `agents`</sub>
+Voice-first check-ins, smart reminders, and a caregiver dashboard — built so families worry less.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🕌 [The Halal Way](https://thehalalway.org)
-***"Understand Islam. Live it with clarity."***
+**🕌 [The Halal Way](https://thehalalway.org)**
+*Understand Islam. Live it with clarity.*
 
-A free, structured, evidence-based learning platform — foundations, daily practice, and spiritual growth — designed with calm, modern, distraction-free UX.
-
-<sub>`education` · `content` · `UX`</sub>
+A free, evidence-based learning platform for anyone exploring or deepening their practice of Islam.
 
 </td>
 </tr>
@@ -160,30 +113,32 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 
 ---
 
-<!-- ═══════════════ 03 · THE OPEN LAB (live) ═══════════════ -->
+<a id="open-lab"></a>
 
-### ❡ &nbsp; 03 · THE OPEN LAB
-<sub>OPEN-SOURCE SYSTEMS THAT RUN THEMSELVES</sub>
+## § 03 — Open Lab
 
-> Self-operating automation — each repo wakes on a schedule, does real work, and commits the result. No servers, no babysitting.
+<sub>OPEN-SOURCE SYSTEMS THAT RUN WITHOUT HIM — THE EXPERIMENTS THAT EARNED A REPO</sub>
 
-| | Project | What it does |
+| | Repository | Observation |
 |:-:|:--|:--|
-| ⚡ | **[codebeez-ai-phone-agent](https://github.com/aredwan-xyz/codebeez-ai-phone-agent)** | Real-time voice AI — **sub-800ms** latency, barge-in interruption, cross-call memory. |
-| 🤖 | **[codebeez-ai-autopilot](https://github.com/aredwan-xyz/codebeez-ai-autopilot)** | Production multi-agent framework wired to live business tools — agents that do work, not demos. |
-| 📡 | **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** | AI intelligence feed — compiles & commits a developer digest every morning. |
-| 🎬 | **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** | Faceless short-form video — generated & posted daily on a zero-cost serverless stack. |
-| 💼 | **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** | Tracks & curates every remote AI job on the internet, committed daily. |
-| 🧠 | **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** | The ambient assistant experiment — a mission-companion AI. The long game. |
+| ⚡ | **[codebeez-ai-phone-agent](https://github.com/aredwan-xyz/codebeez-ai-phone-agent)** | Real-time voice AI, **sub-800ms**, barge-in handling, cross-call memory. |
+| 🤖 | **[codebeez-ai-autopilot](https://github.com/aredwan-xyz/codebeez-ai-autopilot)** | Multi-agent framework wired to real business tools. |
+| 📡 | **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** | Writes its own intelligence digest, every morning, unattended. |
+| 🎬 | **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** | Faceless short-form video, generated and posted on a $0 stack. |
+| 💼 | **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** | Tracks every remote AI job on the internet, daily. |
+| 🧠 | **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** | The ambient-assistant experiment. Ongoing. |
 
 ---
 
-<!-- ═══════════════ 04 · DISPATCH (live) ═══════════════ -->
+<a id="signal"></a>
 
-### ❡ &nbsp; 04 · DISPATCH
-<sub>LIVE FROM THE WIRE — UPDATED DAILY</sub>
+## § 04 — Live Signal
 
-> Pulled fresh from **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — an AI intelligence feed that compiles, summarises, and commits itself every morning:
+<sub>THREE FEEDS THAT UPDATE THEMSELVES, EVERY FEW HOURS — EXPAND ANY OF THEM</sub>
+
+<details open>
+<summary><b>📡 Dispatch</b> &nbsp;—&nbsp; daily, from <a href="https://github.com/aredwan-xyz/techpulse-daily">techpulse-daily</a></summary>
+<br>
 
 <!-- TECHPULSE:START -->
 
@@ -196,29 +151,27 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 
 <!-- TECHPULSE:END -->
 
----
+</details>
 
-<!-- ═══════════════ 05 · NEW ON THE PRESS (live) ═══════════════ -->
-
-### ❡ &nbsp; 05 · NEW ON THE PRESS
-<sub>LATEST BUILDS — STRAIGHT FROM THE GITHUB API</sub>
+<details open>
+<summary><b>🆕 Latest builds</b> &nbsp;—&nbsp; pulled live from the GitHub API</summary>
+<br>
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _3h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _6h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _7h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _8h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _8h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _4h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _7h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _7h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _9h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _9h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
 
 <!-- LATEST_BUILDS:END -->
 
----
+</details>
 
-<!-- ═══════════════ 06 · ON THE RECORD (live) ═══════════════ -->
-
-### ❡ &nbsp; 06 · ON THE RECORD
-<sub>RECENT ACTIVITY</sub>
+<details open>
+<summary><b>🔭 Field log</b> &nbsp;—&nbsp; recent activity</summary>
+<br>
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `10` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _just now_
+- 📦 Pushed `10` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _55m ago_
 - 📦 Pushed `2` commits to **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 🌍 Open-sourced **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _3d ago_
@@ -226,12 +179,21 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 
 <!-- ACTIVITY:END -->
 
+</details>
+
 ---
 
-<!-- ═══════════════ 07 · THE TOOLKIT ═══════════════ -->
+<a id="toolkit"></a>
 
-### ❡ &nbsp; 07 · THE TOOLKIT
-<sub>THE FULL STACK</sub>
+## § 05 — Toolkit
+
+<sub>WHAT'S ON THE BENCH</sub>
+
+**Core** &nbsp;·&nbsp; Claude · OpenAI · LangGraph · Python · TypeScript · React · Next.js · PostgreSQL · Docker · GitHub Actions
+
+<details>
+<summary><b>Show full inventory →</b></summary>
+<br>
 
 **AI & Models**
 
@@ -280,31 +242,39 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 ![Figma](https://img.shields.io/badge/Figma-191919?style=flat-square&logo=figma&logoColor=3fb950)
 ![Framer](https://img.shields.io/badge/Framer-191919?style=flat-square&logo=framer&logoColor=3fb950)
 
----
-
-<!-- ═══════════════ 08 · FIELD NOTES ═══════════════ -->
-
-### ❡ &nbsp; 08 · FIELD NOTES
-<sub>SIX PRINCIPLES FOR BUILDING</sub>
-
-> **I.** &nbsp;&nbsp;&nbsp; The best interface is no interface — the second-best gets out of the way *fast.*
->
-> **II.** &nbsp;&nbsp; Latency is UX. Sub-second or it doesn't feel alive.
->
-> **III.** &nbsp; Ship it. A working build in production beats a perfect deck in a Notion doc.
->
-> **IV.** &nbsp;&nbsp; Good AI removes decisions for the user — it doesn't create new ones.
->
-> **V.** &nbsp;&nbsp;&nbsp; If it needs a manual, the design already failed.
->
-> **VI.** &nbsp;&nbsp; Automate the boring. The best systems run while you sleep.
+</details>
 
 ---
 
-<!-- ═══════════════ 09 · BY THE NUMBERS (live) ═══════════════ -->
+<a id="principles"></a>
 
-### ❡ &nbsp; 09 · BY THE NUMBERS
-<sub>STATS, STREAK, ACTIVITY & OUTPUT</sub>
+## § 06 — Principles
+
+> ∴ The best interface is no interface. The second-best gets out of the way fast.
+>
+> ∴ Latency is UX — sub-second, or it doesn't feel alive.
+>
+> ∴ Ship the working version. A deck has never shipped anything.
+>
+> ∴ Good AI removes decisions. It doesn't add new ones to review.
+>
+> ∴ If it needs a manual, the design already failed.
+>
+> ∴ Automate the boring parts. The good systems work while you sleep.
+
+<details>
+<summary><b>A field note →</b></summary>
+<br>
+
+*The best brief Abid's ever gotten: "we have a problem nobody's solved yet." Most people hear that and ask for a clearer brief. He hears a green light.*
+
+</details>
+
+---
+
+<a id="numbers"></a>
+
+## § 07 — Numbers
 
 <div align="center">
 
@@ -359,15 +329,12 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 
 ---
 
-<!-- ═══════════════ 10 · COMMISSIONS ═══════════════ -->
+<a id="contact"></a>
 
-### ❡ &nbsp; 10 · COMMISSIONS
-<sub>WORK WITH HIM</sub>
+## § 08 — Contact
 
-Open to **senior / lead / founding engineer** roles, high-impact freelance, and AI product consulting through **[CodeBeez](https://codebeez.xyz)**.
-Happiest when the brief is *"we have a problem nobody's solved yet."*
-
-If you need a builder who can ship the model, design the interface, *and* stand up the infrastructure — one person, one coherent product — let's talk.
+Open to **senior / lead / founding engineer** roles, high-impact freelance, and product consulting through **[CodeBeez](https://codebeez.xyz)**.
+Best fit: a problem nobody's solved yet.
 
 <div align="center">
 
@@ -383,20 +350,18 @@ If you need a builder who can ship the model, design the interface, *and* stand 
 
 ---
 
-<!-- ═══════════════ COLOPHON ═══════════════ -->
-
 <div align="center">
 
-<sub>**THE REDWAN REVIEW** &nbsp;·&nbsp; set in system fonts, printed in Markdown &nbsp;·&nbsp; refreshes every 6 hours via GitHub Actions</sub>
+<sub>This notebook refreshes itself every 6 hours via GitHub Actions</sub>
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-06-30 19:00 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-06-30 19:55 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
-<sub><img src="https://komarev.com/ghpvc/?username=aredwan-xyz&color=2ea043&style=flat&label=readers+this+issue" alt="profile views"/></sub>
+<sub><img src="https://komarev.com/ghpvc/?username=aredwan-xyz&color=2ea043&style=flat&label=readers" alt="profile views"/></sub>
 
-<sub><a href="#top">↑ back to masthead</a></sub>
+<sub><a href="#top">↑ back to top</a></sub>
 
 </div>

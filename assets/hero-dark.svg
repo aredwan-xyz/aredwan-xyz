@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Abid Redwan — Founder, CodeBeez. A network of ventures: StartupLabs, LearnQNTM, WellWise, The Halal Way.">
+  <defs>
+    <linearGradient id="ink2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2ea043"/>
+      <stop offset="55%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#7ee787"/>
+    </linearGradient>
+    <radialGradient id="glow2">
+      <stop offset="0%" stop-color="#3fb950" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <text x="600" y="34" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" letter-spacing="3" fill="#7ee787" opacity="0.85">FOUNDER, CODEBEEZ &#160;&#183;&#160; AI SYSTEMS ENGINEER &#160;&#183;&#160; PRODUCT DESIGNER</text>
+
+  <text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="42" letter-spacing="5" fill="url(#ink2)">ABID REDWAN</text>
+
+  <line x1="60" y1="114" x2="1140" y2="114" stroke="#2ea043" stroke-width="1" opacity="0.5"/>
+
+  <ellipse cx="600" cy="280" rx="560" ry="130" fill="none" stroke="#2ea043" stroke-width="1" stroke-dasharray="1 7" opacity="0.18"/>
+
+  <line x1="170" y1="120" x2="170" y2="246" stroke="#2ea043" stroke-width="1" stroke-dasharray="2 4" opacity="0.35"/>
+
+  <circle cx="170" cy="260" r="15" fill="url(#glow2)"/>
+  <circle cx="170" cy="260" r="6" fill="#3fb950"/>
+  <text x="170" y="238" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#7ee787">CODEBEEZ</text>
+
+  <g stroke="#2ea043" stroke-width="1" opacity="0.55">
+    <line x1="176" y1="260" x2="858" y2="165"/>
+    <line x1="176" y1="260" x2="858" y2="228"/>
+    <line x1="176" y1="260" x2="858" y2="291"/>
+    <line x1="176" y1="260" x2="858" y2="354"/>
+  </g>
+
+  <g font-family="Helvetica, Arial, sans-serif">
+    <circle cx="860" cy="165" r="5" fill="#7ee787"/>
+    <text x="876" y="161" font-size="15" font-weight="700" fill="#e6f7ec">StartupLabs</text>
+    <text x="876" y="178" font-size="11" fill="#9fb8a8">your next startup begins here</text>
+
+    <circle cx="860" cy="228" r="5" fill="#7ee787"/>
+    <text x="876" y="224" font-size="15" font-weight="700" fill="#e6f7ec">LearnQNTM</text>
+    <text x="876" y="241" font-size="11" fill="#9fb8a8">quantum, made beautifully simple</text>
+
+    <circle cx="860" cy="291" r="5" fill="#7ee787"/>
+    <text x="876" y="287" font-size="15" font-weight="700" fill="#e6f7ec">WellWise</text>
+    <text x="876" y="304" font-size="11" fill="#9fb8a8">a caring AI companion for wellness</text>
+
+    <circle cx="860" cy="354" r="5" fill="#7ee787"/>
+    <text x="876" y="350" font-size="15" font-weight="700" fill="#e6f7ec">The Halal Way</text>
+    <text x="876" y="367" font-size="11" fill="#9fb8a8">understand Islam, live it with clarity</text>
+  </g>
+</svg>
