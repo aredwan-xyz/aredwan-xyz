@@ -154,6 +154,36 @@ def section_snapshot(repos):
             f"<b>{user['followers']}</b> followers")
 
 
+def section_languages(repos):
+    """Aggregate language usage (by bytes) across owned repos.
+
+    Self-hosted alternative to third-party stat cards: pulls /languages for
+    each repo, sums the byte counts, and renders a themed bar chart. Fully
+    reliable — depends only on the GitHub API, never an external image host.
+    """
+    totals = {}
+    for r in repos:
+        try:
+            data = gh(f"/repos/{r['full_name']}/languages")
+        except Exception:
+            continue
+        for lang, byts in data.items():
+            totals[lang] = totals.get(lang, 0) + byts
+    if not totals:
+        return "```text\nLanguage data warming up…\n```"
+    grand = sum(totals.values())
+    top = sorted(totals.items(), key=lambda kv: -kv[1])[:6]
+    width = 24
+    rows = []
+    for name, byts in top:
+        pct = byts / grand * 100
+        filled = round(pct / 100 * width)
+        bar = "█" * filled + "░" * (width - filled)
+        emoji = LANG_EMOJI.get(name, "•")
+        rows.append(f"{emoji} {name:<13}{bar} {pct:>5.1f}%")
+    return "```text\n" + "\n".join(rows) + "\n```"
+
+
 def section_wakatime():
     """WakaTime last-7-days language breakdown.
 
@@ -195,8 +225,9 @@ def main():
         builds, repos = section_builds()
         text = splice(text, "LATEST_BUILDS", builds)
         text = splice(text, "SNAPSHOT", section_snapshot(repos))
+        text = splice(text, "LANGS", section_languages(repos))
     except Exception as ex:
-        print("  ! builds/snapshot failed:", ex)
+        print("  ! builds/snapshot/langs failed:", ex)
 
     try:
         text = splice(text, "TECHPULSE", section_techpulse())

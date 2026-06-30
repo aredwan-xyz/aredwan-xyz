@@ -210,7 +210,7 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `8` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _just now_
+- 📦 Pushed `8` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _4m ago_
 - 📦 Pushed `2` commits to **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 🌍 Open-sourced **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _3d ago_
@@ -308,17 +308,24 @@ A free, structured, evidence-based learning platform — foundations, daily prac
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aredwan-xyz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9&icon_color=3fb950&ring_color=2ea043&count_private=true" alt="GitHub Stats" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredwan-xyz&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="165"/>
+**Most-used languages** &nbsp;·&nbsp; <sub>aggregated live across repositories — self-generated, no third-party card</sub>
 
-<br/><br/>
+<!-- LANGS:START -->
+
+```text
+🐍 Python       █████████████░░░░░░░░░░░  52.4%
+🌐 HTML         ██████░░░░░░░░░░░░░░░░░░  23.7%
+🟨 JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  11.2%
+🎨 CSS          ██░░░░░░░░░░░░░░░░░░░░░░  10.0%
+⚙️ C++          ░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+🐚 Shell        ░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+```
+
+<!-- LANGS:END -->
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aredwan-xyz&hide_border=true&background=0D1117&stroke=2ea043&ring=3fb950&fire=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2ea043&sideLabels=8b949e&dates=8b949e&dirtyDuration=7ee787" alt="GitHub Streak" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aredwan-xyz&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Commits,Repositories,Followers,Stars,Experience,MultiLanguage" alt="GitHub Trophies"/>
 
 <br/><br/>
 
@@ -376,7 +383,7 @@ If you need a builder who can ship the model, design the interface, *and* stand 
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-06-30 18:45 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-06-30 18:49 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
