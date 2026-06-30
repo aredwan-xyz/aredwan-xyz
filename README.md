@@ -135,10 +135,10 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 
 <!-- TECHPULSE:START -->
 
+- 📰 [2026-06-30] Tech News Digest — AI & dev top stories
 - 🗓️ [2026-06-29] Daily Index — All feeds archived & indexed
 - 📚 [2026-06-29] Learning Pick — Best resource of the day
 - 📊 [2026-06-29] Market Pulse — AI jobs & skills in demand
-- 🔐 [2026-06-29] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -177,7 +177,7 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _10h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _12h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _13h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _14h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _14h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _43m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _16h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _20h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _21h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _21h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -310,11 +310,11 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 
 <!-- ACTIVITY:START -->
 
+- 📦 Pushed `1` commit to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _6h ago_
 - 📦 Pushed `2` commits to **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 🌍 Open-sourced **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
-- 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _2d ago_
+- 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _3d ago_
 - 🍴 Forked **[planttalk](https://github.com/openai/planttalk)** &nbsp;·&nbsp; _3d ago_
-- 📦 Pushed `5` commits to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _3d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -414,7 +414,7 @@ On-device inference for privacy-first smart spaces.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-06-30 02:53 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-06-30 09:36 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
