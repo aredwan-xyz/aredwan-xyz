@@ -1,20 +1,24 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--   THE REDWAN REVIEW · GitHub Profile README                            -->
-<!--   Design: Editorial / magazine · dark-green                            -->
+<!--   Design: Editorial / magazine · dark-green · bespoke SVG masthead      -->
 <!--   Live sections auto-generated — see .github/scripts/update_readme.py   -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <a id="top"></a>
 
-<!-- ═══════════════ MASTHEAD ═══════════════ -->
+<!-- ═══════════════ MASTHEAD (bespoke, theme-adaptive SVG) ═══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020c06,50:0a3d2a,100:020c06&height=140&section=header&text=THE%20REDWAN%20REVIEW&fontSize=44&fontColor=2ea043&fontAlignY=50&desc=AI%20ENGINEERING%20%C2%B7%20EXPERIENCE%20DESIGN%20%C2%B7%20AMBIENT%20COMPUTING&descSize=14&descColor=7ee787&descAlignY=80" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-light.svg">
+  <img width="100%" alt="THE REDWAN REVIEW — AI Engineering · Experience Design · Ambient Computing" src="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-dark.svg">
+</picture>
 
 <div align="center">
 
-**VOL. I** &nbsp;·&nbsp; **MMXXVI** &nbsp;·&nbsp; ESTABLISHED IN TORONTO &nbsp;·&nbsp; REMOTE WORLDWIDE &nbsp;·&nbsp; <kbd>OPEN TO WORK</kbd>
+**Abid Redwan** — AI Engineer × Experience Designer &nbsp;·&nbsp; 🟢 open to senior / lead roles & clients
 
-[`🌐 aredwan.com`](https://www.aredwan.com) &nbsp;·&nbsp; [`✉ subscribe`](mailto:aredwan.tech@gmail.com) &nbsp;·&nbsp; [`in linkedin`](https://linkedin.com/in/aredwan) &nbsp;·&nbsp; [`𝕏 follow`](https://x.com/aredwanx) &nbsp;·&nbsp; ![readers](https://komarev.com/ghpvc/?username=aredwan-xyz&color=2ea043&style=flat-square&label=readers)
+[aredwan.com](https://www.aredwan.com) &nbsp;·&nbsp; [email](mailto:aredwan.tech@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/aredwan) &nbsp;·&nbsp; [x](https://x.com/aredwanx)
 
 </div>
 
@@ -30,7 +34,7 @@
 voice agents that answer in under 800ms, automations that run themselves, and systems a
 non-technical user forgets are even there.
 
-<sub>BY THE EDITORS &nbsp;·&nbsp; FEATURE &nbsp;·&nbsp; 7+ YEARS IN THE FIELD</sub>
+<sub>FEATURE &nbsp;·&nbsp; 7+ YEARS IN THE FIELD &nbsp;·&nbsp; TORONTO → EVERYWHERE</sub>
 
 </div>
 
@@ -54,10 +58,10 @@ non-technical user forgets are even there.
 
 ---
 
-<!-- ═══════════════ THE FEATURE ═══════════════ -->
+<!-- ═══════════════ 01 · THE FEATURE ═══════════════ -->
 
-### ❡ &nbsp; THE FEATURE
-<sub>WHO HE IS · WHAT HE BUILDS</sub>
+### ❡ &nbsp; 01 · THE FEATURE
+<sub>WHO HE IS — WHAT HE BUILDS</sub>
 
 <table>
 <tr>
@@ -98,10 +102,10 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ PORTFOLIO ═══════════════ -->
+<!-- ═══════════════ 02 · PORTFOLIO ═══════════════ -->
 
-### ❡ &nbsp; PORTFOLIO
-<sub>FEATURE WORK · PRODUCTION SYSTEMS</sub>
+### ❡ &nbsp; 02 · PORTFOLIO
+<sub>FEATURE WORK — PRODUCTION SYSTEMS</sub>
 
 | | Project | The story |
 |:-:|:--|:--|
@@ -112,10 +116,10 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ DISPATCH (live) ═══════════════ -->
+<!-- ═══════════════ 03 · DISPATCH (live) ═══════════════ -->
 
-### ❡ &nbsp; DISPATCH
-<sub>LIVE FROM THE WIRE · UPDATED DAILY</sub>
+### ❡ &nbsp; 03 · DISPATCH
+<sub>LIVE FROM THE WIRE — UPDATED DAILY</sub>
 
 > Fresh off **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)**, his AI intelligence feed that compiles and commits itself every morning:
 
@@ -132,27 +136,27 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ NEW ON THE PRESS (live) ═══════════════ -->
+<!-- ═══════════════ 04 · NEW ON THE PRESS (live) ═══════════════ -->
 
-### ❡ &nbsp; NEW ON THE PRESS
-<sub>LATEST BUILDS · STRAIGHT FROM THE GITHUB API</sub>
+### ❡ &nbsp; 04 · NEW ON THE PRESS
+<sub>LATEST BUILDS — STRAIGHT FROM THE GITHUB API</sub>
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _2h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _4h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _21h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _2h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _4h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _4h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _22h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
 
 <!-- LATEST_BUILDS:END -->
 
 ---
 
-<!-- ═══════════════ ON THE RECORD (live) ═══════════════ -->
+<!-- ═══════════════ 05 · ON THE RECORD (live) ═══════════════ -->
 
-### ❡ &nbsp; ON THE RECORD
+### ❡ &nbsp; 05 · ON THE RECORD
 <sub>RECENT ACTIVITY</sub>
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _just now_
+- 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _21m ago_
 - 📦 Pushed `2` commits to **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 🌍 Open-sourced **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
 - 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _3d ago_
@@ -162,9 +166,9 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ THE TOOLKIT ═══════════════ -->
+<!-- ═══════════════ 06 · THE TOOLKIT ═══════════════ -->
 
-### ❡ &nbsp; THE TOOLKIT
+### ❡ &nbsp; 06 · THE TOOLKIT
 <sub>THE STACK BEHIND THE WORK</sub>
 
 | Desk | Tools |
@@ -179,9 +183,9 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ FIELD NOTES ═══════════════ -->
+<!-- ═══════════════ 07 · FIELD NOTES ═══════════════ -->
 
-### ❡ &nbsp; FIELD NOTES
+### ❡ &nbsp; 07 · FIELD NOTES
 <sub>SIX PRINCIPLES FOR BUILDING</sub>
 
 > **I.** &nbsp; The best interface is no interface — the second-best gets out of the way *fast*.
@@ -198,24 +202,9 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ THIS WEEK IN CODE (live) ═══════════════ -->
+<!-- ═══════════════ 08 · BY THE NUMBERS (live) ═══════════════ -->
 
-### ❡ &nbsp; THIS WEEK IN CODE
-<sub>VIA WAKATIME</sub>
-
-<!-- WAKA:START -->
-
-```text
-⏳ Connecting WakaTime — the weekly language breakdown will run here.
-```
-
-<!-- WAKA:END -->
-
----
-
-<!-- ═══════════════ BY THE NUMBERS (live) ═══════════════ -->
-
-### ❡ &nbsp; BY THE NUMBERS
+### ❡ &nbsp; 08 · BY THE NUMBERS
 <sub>THE DATA</sub>
 
 <div align="center">
@@ -228,6 +217,16 @@ about software that knows where you are, what you need, and gets out of the way.
 
 <br/>
 
+**This week in code** &nbsp;·&nbsp; <sub>via WakaTime</sub>
+
+<!-- WAKA:START -->
+
+```text
+⏳ Connecting WakaTime — the weekly language breakdown will run here.
+```
+
+<!-- WAKA:END -->
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aredwan-xyz&bg_color=0D1117&color=2ea043&line=3fb950&point=2ea043&area=true&area_color=052e16&hide_border=true&title_color=2ea043&custom_title=Commit+Activity)](https://github.com/aredwan-xyz)
 
 <picture>
@@ -239,9 +238,9 @@ about software that knows where you are, what you need, and gets out of the way.
 
 ---
 
-<!-- ═══════════════ COMMISSIONS ═══════════════ -->
+<!-- ═══════════════ 09 · COMMISSIONS ═══════════════ -->
 
-### ❡ &nbsp; COMMISSIONS
+### ❡ &nbsp; 09 · COMMISSIONS
 <sub>WORK WITH HIM</sub>
 
 He's open to **senior / lead / founding** roles, high-impact freelance, and AI consulting — happiest
@@ -250,7 +249,9 @@ when the brief is *"a problem nobody's solved yet."*
 <div align="center">
 
 [![Email](https://img.shields.io/badge/✉_aredwan.tech@gmail.com-2ea043?style=for-the-badge&logoColor=white)](mailto:aredwan.tech@gmail.com)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_aredwan.com-052e16?style=for-the-badge)](https://www.aredwan.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/in_linkedin-052e16?style=for-the-badge&logo=linkedin&logoColor=2ea043)](https://linkedin.com/in/aredwan)
 
 </div>
@@ -261,11 +262,11 @@ when the brief is *"a problem nobody's solved yet."*
 
 <div align="center">
 
-<sub>**THE REDWAN REVIEW** &nbsp;·&nbsp; set in system fonts, printed in Markdown &nbsp;·&nbsp; this issue refreshes itself every 6 hours</sub>
+<sub>**THE REDWAN REVIEW** &nbsp;·&nbsp; set in system fonts, printed in Markdown &nbsp;·&nbsp; this issue refreshes itself every 6 hours via GitHub Actions</sub>
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-06-30 14:31 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-06-30 14:53 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
