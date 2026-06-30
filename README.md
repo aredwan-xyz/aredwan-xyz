@@ -14,6 +14,14 @@
   <img width="100%" alt="THE REDWAN REVIEW — AI Engineering · Experience Design · Ambient Computing" src="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/masthead-dark.svg">
 </picture>
 
+<!-- ═══════════════ COVER BAND (animated "now building" ticker) ═══════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/cover-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/cover-light.svg">
+  <img width="100%" alt="Now building — codebeez-ai-phone-agent · StartupLabs · LearnQNTM · WellWise · The Halal Way · techpulse-daily" src="https://raw.githubusercontent.com/aredwan-xyz/aredwan-xyz/main/assets/cover-dark.svg">
+</picture>
+
 <div align="center">
 
 **Abid Redwan** &nbsp;—&nbsp; Founder of **[CodeBeez](https://codebeez.xyz)** &nbsp;·&nbsp; AI Systems Engineer × Product Designer &nbsp;·&nbsp; 🟢 open to roles, clients & collaborations
