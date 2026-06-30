@@ -16,9 +16,9 @@
 
 <div align="center">
 
-**Abid Redwan** &nbsp;—&nbsp; AI Engineer × Experience Designer &nbsp;·&nbsp; 🟢 open to senior / lead & clients
+**Abid Redwan** &nbsp;—&nbsp; Founder of **[CodeBeez](https://codebeez.xyz)** &nbsp;·&nbsp; AI Systems Engineer × Product Designer &nbsp;·&nbsp; 🟢 open to roles, clients & collaborations
 
-[![Portfolio](https://img.shields.io/badge/aredwan.com-0d1117?style=flat&logo=safari&logoColor=2ea043)](https://www.aredwan.com) &nbsp;[![Email](https://img.shields.io/badge/email-0d1117?style=flat&logo=gmail&logoColor=2ea043)](mailto:aredwan.tech@gmail.com) &nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=2ea043)](https://linkedin.com/in/aredwan) &nbsp;[![X](https://img.shields.io/badge/x-0d1117?style=flat&logo=x&logoColor=2ea043)](https://x.com/aredwanx)
+[![Portfolio](https://img.shields.io/badge/aredwan.com-0d1117?style=flat&logo=safari&logoColor=2ea043)](https://www.aredwan.com) &nbsp;[![CodeBeez](https://img.shields.io/badge/codebeez.xyz-0d1117?style=flat&logo=hive&logoColor=2ea043)](https://codebeez.xyz) &nbsp;[![Email](https://img.shields.io/badge/email-0d1117?style=flat&logo=gmail&logoColor=2ea043)](mailto:aredwan.tech@gmail.com) &nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=2ea043)](https://linkedin.com/in/aredwan) &nbsp;[![X](https://img.shields.io/badge/x-0d1117?style=flat&logo=x&logoColor=2ea043)](https://x.com/aredwanx)
 
 </div>
 
@@ -28,13 +28,13 @@
 
 <div align="center">
 
-## *"The best AI is the one you forget is there."*
+## *"Deep tech for the human future."*
 
-**Abid Redwan** engineers AI that *disappears into the experience* —
-voice agents that answer in under 800ms, automations that commit their own results at 3 a.m.,
-and ambient systems users forget are even running.
+**Abid Redwan** is a founder and AI systems engineer who ships **whole products** — model, interface, and infrastructure as one.
+Through **[CodeBeez](https://codebeez.xyz)** he's launched platforms across entrepreneurship, deep-tech education, healthcare, and faith —
+each one built on the same belief: *the best technology disappears into the experience.*
 
-<sub>7+ YEARS IN THE FIELD &nbsp;·&nbsp; VOICE AI · AGENTIC SYSTEMS · IOT · AMBIENT UX &nbsp;·&nbsp; TORONTO → EVERYWHERE</sub>
+<sub>7+ YEARS IN THE FIELD &nbsp;·&nbsp; AI SYSTEMS · VOICE AGENTS · PRODUCT DESIGN · AMBIENT COMPUTING &nbsp;·&nbsp; TORONTO → EVERYWHERE</sub>
 
 </div>
 
@@ -47,14 +47,15 @@ and ambient systems users forget are even running.
 | | Department | The story |
 |:--|:--|:--|
 | `01` | **The Feature** | Who he is, and the seam he works at |
-| `02` | **Portfolio** | Production systems that ship and stay up |
-| `03` | **Dispatch** | Live from the TechPulse wire |
-| `04` | **New on the Press** | Most recent builds, straight from the API |
-| `05` | **On the Record** | Recent activity |
-| `06` | **The Toolkit** | The full stack |
-| `07` | **Field Notes** | Six principles for building |
-| `08` | **By the Numbers** | Stats, activity, output |
-| `09` | **Commissions** | How to work with him |
+| `02` | **Ventures** | CodeBeez & four live products |
+| `03` | **The Open Lab** | Open-source systems that run themselves |
+| `04` | **Dispatch** | Live from the TechPulse wire |
+| `05` | **New on the Press** | Most recent builds, straight from the API |
+| `06` | **On the Record** | Recent activity |
+| `07` | **The Toolkit** | The full stack |
+| `08` | **Field Notes** | Six principles for building |
+| `09` | **By the Numbers** | Stats, streak, activity, output |
+| `10` | **Commissions** | How to work with him |
 
 ---
 
@@ -67,11 +68,11 @@ and ambient systems users forget are even running.
 <tr>
 <td width="62%" valign="top">
 
-**A**bid Redwan works at the seam where most engineers draw a boundary — between the model, the interface, and the space. He doesn't.
+**A**bid Redwan is a founder who builds at the seam most teams split across three hires — **AI engineering**, **product design**, and **systems thinking**. He does all three, which is why his products feel *whole* instead of stitched together.
 
-His background spans **AI engineering**, **human-centred design**, and **physical computing**: three disciplines the industry keeps separate. He composes them. The result is systems where the technology is invisible: a voice agent that simply *understands*, a building that responds before you reach the switch, an automation pipeline that runs itself overnight and reports back before you wake.
+He runs **[CodeBeez](https://codebeez.xyz)** — a studio shipping *deep tech for the human future*. Under it: a platform that turns ideas into startups, a school that makes quantum computing simple, an AI companion that watches over seniors, and a calm place to learn faith. Four different worlds, one throughline — **technology that gets out of the way.**
 
-The throughline is restraint. The most technically sophisticated thing in most of his builds is the thing you never notice. Seven years in, that's still the goal.
+The most sophisticated thing in most of his builds is the part you never notice. Seven years in, that's still the goal.
 
 > *"The best brief I've ever gotten: 'We have a problem nobody's solved yet.' That's the one I take."*
 
@@ -80,12 +81,13 @@ The throughline is restraint. The most technically sophisticated thing in most o
 
 > **FACT FILE**
 >
-> **Role** &nbsp;·&nbsp; AI Engineer × Experience Designer
+> **Role** &nbsp;·&nbsp; Founder · AI Systems Engineer
+> **Studio** &nbsp;·&nbsp; [CodeBeez](https://codebeez.xyz)
 > **Base** &nbsp;·&nbsp; Toronto, CA · remote worldwide
-> **Studio** &nbsp;·&nbsp; CodeBeez Technology
-> **Beat** &nbsp;·&nbsp; voice AI · agents · IoT · ambient UX
+> **Beat** &nbsp;·&nbsp; AI products · voice agents · ambient UX
+> **Ships** &nbsp;·&nbsp; model + interface + infra, end to end
 > **Years** &nbsp;·&nbsp; 7+, production systems
-> **Status** &nbsp;·&nbsp; 🟢 open · senior / lead / founding
+> **Status** &nbsp;·&nbsp; 🟢 open · roles · clients · collabs
 
 </td>
 </tr>
@@ -93,39 +95,56 @@ The throughline is restraint. The most technically sophisticated thing in most o
 
 ---
 
-<!-- ═══════════════ 02 · PORTFOLIO ═══════════════ -->
+<!-- ═══════════════ 02 · VENTURES ═══════════════ -->
 
-### ❡ &nbsp; 02 · PORTFOLIO
-<sub>FEATURE WORK — PRODUCTION SYSTEMS</sub>
+### ❡ &nbsp; 02 · VENTURES
+<sub>THE STUDIO & WHAT IT SHIPS</sub>
+
+> ### 🐝 &nbsp; [CodeBeez](https://codebeez.xyz) — *"Deep Tech for the Human Future."*
+> The studio behind the work: AI systems, ambient interfaces, and products that put advanced technology in service of real people. Four live platforms, four different worlds:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ [codebeez-ai-phone-agent](https://github.com/aredwan-xyz/codebeez-ai-phone-agent)
+#### 🚀 [StartupLabs](https://startuplabs.digital)
+***"Your next startup begins here."***
 
-Real-time voice AI built for production. **Sub-800ms** end-to-end latency, barge-in interruption handling, cross-call memory. Built on Vapi + Claude + LangGraph.
+Idea-to-launch platform: **154+ market-validated** startup ideas, an AI idea generator, week-by-week bootstrap playbooks, and progress tracking. For founders, indie hackers, and builders.
 
-**The cover story.**
-
----
-
-#### 🤖 [codebeez-ai-autopilot](https://github.com/aredwan-xyz/codebeez-ai-autopilot)
-
-Multi-agent automation framework wired to live business tools — CRM, calendar, APIs. Not a demo. Agents that plan, execute, and report back without being watched.
+<sub>`Next.js` · `AI` · `product`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎬 [video-autopilot](https://github.com/aredwan-xyz/video-autopilot)
+#### ⚛️ [LearnQNTM](https://learnqntm.com)
+***"Quantum made beautifully simple."***
 
-Faceless AI video automation. Generates, renders, and posts short-form daily on a fully serverless, zero-cost stack — Groq + ffmpeg + GitHub Actions.
+Interactive quantum-computing school — **3D state visualizers**, drag-and-drop circuit builders, and live simulators. From qubits to Shor's algorithm, no physics background required.
 
----
+<sub>`education` · `3D / WebGL` · `simulation`</sub>
 
-#### 🧠 [jarvis-os](https://github.com/aredwan-xyz/jarvis-os)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-The ambient assistant experiment. A mission-companion AI that persists context, tracks goals, and surfaces what matters. The long game.
+#### 🩺 [WellWise](https://wellwise.care)
+***"Your caring AI companion for daily wellness."***
+
+Voice-first AI for seniors — gentle conversation, smart medication & hydration reminders, activity tracking, emergency alerts, and a **caregiver dashboard** for families.
+
+<sub>`voice AI` · `healthcare` · `agents`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🕌 [The Halal Way](https://thehalalway.org)
+***"Understand Islam. Live it with clarity."***
+
+A free, structured, evidence-based learning platform — foundations, daily practice, and spiritual growth — designed with calm, modern, distraction-free UX.
+
+<sub>`education` · `content` · `UX`</sub>
 
 </td>
 </tr>
@@ -133,9 +152,27 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 03 · DISPATCH (live) ═══════════════ -->
+<!-- ═══════════════ 03 · THE OPEN LAB (live) ═══════════════ -->
 
-### ❡ &nbsp; 03 · DISPATCH
+### ❡ &nbsp; 03 · THE OPEN LAB
+<sub>OPEN-SOURCE SYSTEMS THAT RUN THEMSELVES</sub>
+
+> Self-operating automation — each repo wakes on a schedule, does real work, and commits the result. No servers, no babysitting.
+
+| | Project | What it does |
+|:-:|:--|:--|
+| ⚡ | **[codebeez-ai-phone-agent](https://github.com/aredwan-xyz/codebeez-ai-phone-agent)** | Real-time voice AI — **sub-800ms** latency, barge-in interruption, cross-call memory. |
+| 🤖 | **[codebeez-ai-autopilot](https://github.com/aredwan-xyz/codebeez-ai-autopilot)** | Production multi-agent framework wired to live business tools — agents that do work, not demos. |
+| 📡 | **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** | AI intelligence feed — compiles & commits a developer digest every morning. |
+| 🎬 | **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** | Faceless short-form video — generated & posted daily on a zero-cost serverless stack. |
+| 💼 | **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** | Tracks & curates every remote AI job on the internet, committed daily. |
+| 🧠 | **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** | The ambient assistant experiment — a mission-companion AI. The long game. |
+
+---
+
+<!-- ═══════════════ 04 · DISPATCH (live) ═══════════════ -->
+
+### ❡ &nbsp; 04 · DISPATCH
 <sub>LIVE FROM THE WIRE — UPDATED DAILY</sub>
 
 > Pulled fresh from **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — an AI intelligence feed that compiles, summarises, and commits itself every morning:
@@ -153,9 +190,9 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 04 · NEW ON THE PRESS (live) ═══════════════ -->
+<!-- ═══════════════ 05 · NEW ON THE PRESS (live) ═══════════════ -->
 
-### ❡ &nbsp; 04 · NEW ON THE PRESS
+### ❡ &nbsp; 05 · NEW ON THE PRESS
 <sub>LATEST BUILDS — STRAIGHT FROM THE GITHUB API</sub>
 
 <!-- LATEST_BUILDS:START -->
@@ -166,9 +203,9 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 05 · ON THE RECORD (live) ═══════════════ -->
+<!-- ═══════════════ 06 · ON THE RECORD (live) ═══════════════ -->
 
-### ❡ &nbsp; 05 · ON THE RECORD
+### ❡ &nbsp; 06 · ON THE RECORD
 <sub>RECENT ACTIVITY</sub>
 
 <!-- ACTIVITY:START -->
@@ -183,9 +220,9 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 06 · THE TOOLKIT ═══════════════ -->
+<!-- ═══════════════ 07 · THE TOOLKIT ═══════════════ -->
 
-### ❡ &nbsp; 06 · THE TOOLKIT
+### ❡ &nbsp; 07 · THE TOOLKIT
 <sub>THE FULL STACK</sub>
 
 **AI & Models**
@@ -237,9 +274,9 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 07 · FIELD NOTES ═══════════════ -->
+<!-- ═══════════════ 08 · FIELD NOTES ═══════════════ -->
 
-### ❡ &nbsp; 07 · FIELD NOTES
+### ❡ &nbsp; 08 · FIELD NOTES
 <sub>SIX PRINCIPLES FOR BUILDING</sub>
 
 > **I.** &nbsp;&nbsp;&nbsp; The best interface is no interface — the second-best gets out of the way *fast.*
@@ -256,10 +293,10 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 08 · BY THE NUMBERS (live) ═══════════════ -->
+<!-- ═══════════════ 09 · BY THE NUMBERS (live) ═══════════════ -->
 
-### ❡ &nbsp; 08 · BY THE NUMBERS
-<sub>STATS, ACTIVITY & OUTPUT</sub>
+### ❡ &nbsp; 09 · BY THE NUMBERS
+<sub>STATS, STREAK, ACTIVITY & OUTPUT</sub>
 
 <div align="center">
 
@@ -274,6 +311,14 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 <img src="https://github-readme-stats.vercel.app/api?username=aredwan-xyz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9&icon_color=3fb950&ring_color=2ea043&count_private=true" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredwan-xyz&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ea043&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aredwan-xyz&hide_border=true&background=0D1117&stroke=2ea043&ring=3fb950&fire=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2ea043&sideLabels=8b949e&dates=8b949e&dirtyDuration=7ee787" alt="GitHub Streak" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aredwan-xyz&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Commits,Repositories,Followers,Stars,Experience,MultiLanguage" alt="GitHub Trophies"/>
 
 <br/><br/>
 
@@ -299,19 +344,21 @@ The ambient assistant experiment. A mission-companion AI that persists context, 
 
 ---
 
-<!-- ═══════════════ 09 · COMMISSIONS ═══════════════ -->
+<!-- ═══════════════ 10 · COMMISSIONS ═══════════════ -->
 
-### ❡ &nbsp; 09 · COMMISSIONS
+### ❡ &nbsp; 10 · COMMISSIONS
 <sub>WORK WITH HIM</sub>
 
-Open to **senior / lead / founding engineer** roles, high-impact freelance, and AI consulting.
+Open to **senior / lead / founding engineer** roles, high-impact freelance, and AI product consulting through **[CodeBeez](https://codebeez.xyz)**.
 Happiest when the brief is *"we have a problem nobody's solved yet."*
 
-Currently building at the frontier of ambient computing and agentic AI — if you need a designer who can ship the model *and* an engineer who cares about the feel, reach out.
+If you need a builder who can ship the model, design the interface, *and* stand up the infrastructure — one person, one coherent product — let's talk.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/✉_Get_in_touch-2ea043?style=for-the-badge&logoColor=white)](mailto:aredwan.tech@gmail.com)
+&nbsp;
+[![CodeBeez](https://img.shields.io/badge/🐝_CodeBeez-0d1117?style=for-the-badge)](https://codebeez.xyz)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_aredwan.com-052e16?style=for-the-badge)](https://www.aredwan.com)
 &nbsp;
@@ -332,6 +379,8 @@ Currently building at the frontier of ambient computing and agentic AI — if yo
 <sub>🔄 Last refreshed 2026-06-30 17:59 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
+
+<sub><img src="https://komarev.com/ghpvc/?username=aredwan-xyz&color=2ea043&style=flat&label=readers+this+issue" alt="profile views"/></sub>
 
 <sub><a href="#top">↑ back to masthead</a></sub>
 
