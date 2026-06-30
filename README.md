@@ -111,9 +111,6 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 <a href="https://github.com/aredwan-xyz/jarvis-os">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=jarvis-os&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787" />
 </a>
-<a href="https://github.com/aredwan-xyz/planttalk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=planttalk&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787" />
-</a>
 
 </div>
 
@@ -133,6 +130,19 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 | [**remote-jobs-ai-curator**](https://github.com/aredwan-xyz/remote-jobs-ai-curator) | Tracks & curates every remote AI job, committed daily | 🟢 Daily |
 
 *All powered by GitHub Actions on a free, serverless stack — no servers, no babysitting.*
+
+**📰 Hot off the feed** — the latest from my AI intel automation, live:
+
+<!-- TECHPULSE:START -->
+
+- 🗓️ [2026-06-29] Daily Index — All feeds archived & indexed
+- 📚 [2026-06-29] Learning Pick — Best resource of the day
+- 📊 [2026-06-29] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-06-29] Security Pulse — CVEs & advisories summarized
+
+> 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
+
+<!-- TECHPULSE:END -->
 
 ---
 
@@ -154,6 +164,30 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 <a href="https://github.com/aredwan-xyz/career-os-framework">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aredwan-xyz&repo=career-os-framework&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=2ea043&text_color=7ee787" />
 </a>
+
+</div>
+
+---
+
+<!-- ═══════════════ RECENTLY SHIPPED (auto) ═══════════════ -->
+
+## 🛰️ Recently Shipped &nbsp;<sub><sup>· auto-updated</sup></sub>
+
+> My latest pushes, pulled live from the GitHub API — no hand-editing.
+
+<!-- LATEST_BUILDS:START -->
+
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _10h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _12h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _13h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _14h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _14h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _3d ago_
+
+<!-- LATEST_BUILDS:END -->
+
+<div align="center">
+
+<!-- SNAPSHOT:START -->
+
+<b>20</b> public repos &nbsp;·&nbsp; <b>⭐ 3</b> stars earned &nbsp;·&nbsp; <b>8</b> followers
+
+<!-- SNAPSHOT:END -->
 
 </div>
 
@@ -270,6 +304,22 @@ A phone agent that doesn't feel like a 2005 IVR — it listens, interrupts, reas
 
 ---
 
+<!-- ═══════════════ RECENT ACTIVITY (auto) ═══════════════ -->
+
+## ⚡ Recent Activity &nbsp;<sub><sup>· auto-updated</sup></sub>
+
+<!-- ACTIVITY:START -->
+
+- 📦 Pushed `2` commits to **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
+- 🌍 Open-sourced **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _2d ago_
+- 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _2d ago_
+- 🍴 Forked **[planttalk](https://github.com/openai/planttalk)** &nbsp;·&nbsp; _3d ago_
+- 📦 Pushed `5` commits to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _3d ago_
+
+<!-- ACTIVITY:END -->
+
+---
+
 <!-- ═══════════════ EXPLORING ═══════════════ -->
 
 ## 🔬 On My Radar Right Now
@@ -361,6 +411,13 @@ On-device inference for privacy-first smart spaces.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c06,40:052e16,70:14532d,100:020c06&height=130&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <sub>⚡ Designed with intention · shipped with obsession · Toronto → everywhere</sub><br/>
+
+<!-- UPDATED:START -->
+
+<sub>🔄 Last refreshed 2026-06-30 02:53 UTC · auto-updates every 6h via GitHub Actions</sub>
+
+<!-- UPDATED:END -->
+
+<sub>⚡ Designed with intention · shipped with obsession · Toronto → everywhere</sub><br/>
   <sub>If anything here was useful, a ⭐ on a repo goes a long way. &nbsp;·&nbsp; <a href="#top">back to top ↑</a></sub>
 </div>
