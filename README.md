@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 📰 [2026-07-01] Tech News Digest — AI & dev top stories
-- 🗓️ [2026-06-30] Daily Index — All feeds archived & indexed
-- 📚 [2026-06-30] Learning Pick — Best resource of the day
-- 📊 [2026-06-30] Market Pulse — AI jobs & skills in demand
+- 🗓️ [2026-07-01] Daily Index — All feeds archived & indexed
+- 📚 [2026-07-01] Learning Pick — Best resource of the day
+- 📊 [2026-07-01] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-07-01] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _18h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _21h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _23h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _4d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _2h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _3h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _23h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _4d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,7 +171,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `11` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _13h ago_
+- 📦 Pushed `11` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _18h ago_
 - 📦 Pushed `2` commits to **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _3d ago_
 - 🌍 Open-sourced **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _3d ago_
 - 📦 Pushed `5` commits to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _4d ago_
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-07-01 09:47 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-07-01 14:36 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
