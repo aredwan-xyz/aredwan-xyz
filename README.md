@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _3h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _5h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _6h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _7h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _8h ago_<br>🌐 **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** — Mission companion ai &nbsp;·&nbsp; _21h ago_
+🐍 **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** — The open-source flight recorder and safety checklist for AI agents. &nbsp;·&nbsp; _16m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _10h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _13h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _14h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _15h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _15h ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `1` commit to **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** &nbsp;·&nbsp; _21h ago_
+- 📦 Pushed `1` commit to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _16m ago_
+- ✨ Created branch in **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _26m ago_
+- 📦 Pushed `1` commit to **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** &nbsp;·&nbsp; _1d ago_
 - 📦 Pushed `9` commits to **[ai-mastery-ultimate-resources](https://github.com/aredwan-xyz/ai-mastery-ultimate-resources)** &nbsp;·&nbsp; _2d ago_
 - 📦 Pushed `2` commits to **[homeos](https://github.com/aredwan-xyz/homeos)** &nbsp;·&nbsp; _4d ago_
-- 🌍 Open-sourced **[homeos](https://github.com/aredwan-xyz/homeos)** &nbsp;·&nbsp; _4d ago_
-- ⭐ Starred **[hermes-agent](https://github.com/NousResearch/hermes-agent)** &nbsp;·&nbsp; _5d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>21</b> public repos &nbsp;·&nbsp; <b>⭐ 3</b> stars earned &nbsp;·&nbsp; <b>7</b> followers
+<b>22</b> public repos &nbsp;·&nbsp; <b>⭐ 3</b> stars earned &nbsp;·&nbsp; <b>7</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -291,10 +291,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 <!-- LANGS:START -->
 
 ```text
-🐍 Python       ████████████░░░░░░░░░░░░  49.5%
-🌐 HTML         ██████░░░░░░░░░░░░░░░░░░  26.6%
-🟨 JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  11.8%
-🎨 CSS          ██░░░░░░░░░░░░░░░░░░░░░░   9.4%
+🐍 Python       ████████████░░░░░░░░░░░░  50.5%
+🌐 HTML         ██████░░░░░░░░░░░░░░░░░░  26.1%
+🟨 JavaScript   ███░░░░░░░░░░░░░░░░░░░░░  11.6%
+🎨 CSS          ██░░░░░░░░░░░░░░░░░░░░░░   9.2%
 ⚙️ C++          ░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 🐚 Shell        ░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-07-06 19:57 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-07-07 03:24 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
