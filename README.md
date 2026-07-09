@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
+- 📰 [2026-07-09] Tech News Digest — AI & dev top stories
 - 🗓️ [2026-07-08] Daily Index — All feeds archived & indexed
 - 📚 [2026-07-08] Learning Pick — Best resource of the day
 - 📊 [2026-07-08] Market Pulse — AI jobs & skills in demand
-- 🔐 [2026-07-08] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _11h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _15h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _15h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _17h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _17h ago_<br>🐍 **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** — The open-source flight recorder and preflight safety checklist for AI agents. &nbsp;·&nbsp; _1d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _34m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _18h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _22h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _23h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _1d ago_<br>🐍 **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** — The open-source flight recorder and preflight safety checklist for AI agents. &nbsp;·&nbsp; _2d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `1` commit to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _1d ago_
-- 📦 Pushed `2` commits to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _1d ago_
+- 📦 Pushed `1` commit to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _2d ago_
+- 📦 Pushed `2` commits to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _2d ago_
 - ✨ Created branch in **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _2d ago_
 - 📦 Pushed `1` commit to **[jarvis-os](https://github.com/aredwan-xyz/jarvis-os)** &nbsp;·&nbsp; _3d ago_
-- 📦 Pushed `9` commits to **[ai-mastery-ultimate-resources](https://github.com/aredwan-xyz/ai-mastery-ultimate-resources)** &nbsp;·&nbsp; _4d ago_
+- 📦 Pushed `9` commits to **[ai-mastery-ultimate-resources](https://github.com/aredwan-xyz/ai-mastery-ultimate-resources)** &nbsp;·&nbsp; _5d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-07-09 03:18 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-07-09 09:39 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
