@@ -286,7 +286,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <br/>
 
-**Most-used languages** &nbsp;·&nbsp; <sub>aggregated live across repositories — self-generated, no third-party card</sub>
+**Most-used languages** &nbsp;·&nbsp; <sub>aggregated live across repositories — self-generated, no third-party card (this pattern is now open-sourced as [evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats) — GitHub Action, MIT)</sub>
 
 <!-- LANGS:START -->
 
