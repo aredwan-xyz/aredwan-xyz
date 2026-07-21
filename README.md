@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 📰 [2026-07-21] Tech News Digest — AI & dev top stories
-- 🗓️ [2026-07-20] Daily Index — All feeds archived & indexed
-- 📚 [2026-07-20] Learning Pick — Best resource of the day
-- 📊 [2026-07-20] Market Pulse — AI jobs & skills in demand
+- 🗓️ [2026-07-21] Daily Index — All feeds archived & indexed
+- 📚 [2026-07-21] Learning Pick — Best resource of the day
+- 📊 [2026-07-21] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-07-21] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _24m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _17h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _20h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _21h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _22h ago_<br>🐍 **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** — Self-hosted GitHub profile stat cards — no external rendering service, never 503s. &nbsp;·&nbsp; _5d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _2h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _4h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** &nbsp;·&nbsp; _22h ago_<br>🐍 **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** — Self-hosted GitHub profile stat cards — no external rendering service, never 503s. &nbsp;·&nbsp; _6d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -172,10 +172,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 <!-- ACTIVITY:START -->
 
 - 📦 Pushed `2` commits to **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** &nbsp;·&nbsp; _5d ago_
-- 📦 Pushed `1` commit to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _5d ago_
-- 📦 Pushed `1` commit to **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** &nbsp;·&nbsp; _5d ago_
-- 🎉 Released `v1` in **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** &nbsp;·&nbsp; _5d ago_
-- ✨ Created branch in **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** &nbsp;·&nbsp; _5d ago_
+- 📦 Pushed `1` commit to **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _6d ago_
+- 📦 Pushed `1` commit to **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** &nbsp;·&nbsp; _6d ago_
+- 🎉 Released `v1` in **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** &nbsp;·&nbsp; _6d ago_
+- ✨ Created branch in **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** &nbsp;·&nbsp; _6d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-07-21 08:28 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-07-21 13:50 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
