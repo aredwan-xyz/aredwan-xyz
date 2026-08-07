@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; _11h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _14h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; _15h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _16h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _17h ago_<br>🐍 **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** — Self-hosted GitHub profile stat cards — no external rendering service, never 503s. &nbsp;·&nbsp; _22d ago_
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; _15h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _18h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _19h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _20h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _21h ago_<br>🐍 **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** — Self-hosted GitHub profile stat cards — no external rendering service, never 503s. &nbsp;·&nbsp; _22d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,7 +171,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `7` commits to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _2d ago_
+- 📦 Pushed `7` commits to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _3d ago_
 - ⭐ Starred **[toronto-tech-scene](https://github.com/toriagibbs-zz/toronto-tech-scene)** &nbsp;·&nbsp; _5d ago_
 - ⭐ Starred **[img2threejs](https://github.com/img2threejs/img2threejs)** &nbsp;·&nbsp; _16d ago_
 - ⭐ Starred **[ECC](https://github.com/affaan-m/ECC)** &nbsp;·&nbsp; _16d ago_
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>23</b> public repos &nbsp;·&nbsp; <b>⭐ 3</b> stars earned &nbsp;·&nbsp; <b>8</b> followers
+<b>23</b> public repos &nbsp;·&nbsp; <b>⭐ 4</b> stars earned &nbsp;·&nbsp; <b>8</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-08-07 03:11 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-08-07 07:15 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
