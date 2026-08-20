@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _4h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _5h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _23h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; _7d ago_<br>🐍 **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** — Self-hosted GitHub profile stat cards — no external rendering service, never 503s. &nbsp;·&nbsp; _1mo ago_
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _4h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _7h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _10h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _10h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; _7d ago_<br>🐍 **[evergreen-stats](https://github.com/aredwan-xyz/evergreen-stats)** — Self-hosted GitHub profile stat cards — no external rendering service, never 503s. &nbsp;·&nbsp; _1mo ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- ⭐ Starred **[public-apis](https://github.com/public-apis/public-apis)** &nbsp;·&nbsp; _5d ago_
+- ⭐ Starred **[public-apis](https://github.com/public-apis/public-apis)** &nbsp;·&nbsp; _6d ago_
 - ⭐ Starred **[free-claude-code](https://github.com/Alishahryar1/free-claude-code)** &nbsp;·&nbsp; _6d ago_
 - 📦 Pushed `7` commits to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _16d ago_
-- ⭐ Starred **[toronto-tech-scene](https://github.com/toriagibbs-zz/toronto-tech-scene)** &nbsp;·&nbsp; _18d ago_
-- ⭐ Starred **[img2threejs](https://github.com/img2threejs/img2threejs)** &nbsp;·&nbsp; _29d ago_
+- ⭐ Starred **[toronto-tech-scene](https://github.com/toriagibbs-zz/toronto-tech-scene)** &nbsp;·&nbsp; _19d ago_
+- ⭐ Starred **[img2threejs](https://github.com/img2threejs/img2threejs)** &nbsp;·&nbsp; _1mo ago_
 
 <!-- ACTIVITY:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-08-20 12:49 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-08-20 18:38 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
