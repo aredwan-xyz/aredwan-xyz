@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _34m ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _2h ago_<br>📦 **[codebeez-innovation-resources](https://github.com/aredwan-xyz/codebeez-innovation-resources)** — The most comprehensive AI, Innovation & Technology resource hub by CodeBeez &nbsp;·&nbsp; _12h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; _15d ago_
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _6h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _8h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _10h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _10h ago_<br>📦 **[codebeez-innovation-resources](https://github.com/aredwan-xyz/codebeez-innovation-resources)** — The most comprehensive AI, Innovation & Technology resource hub by CodeBeez &nbsp;·&nbsp; _20h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 3 &nbsp;·&nbsp; _15d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- ⭐ Starred **[system-design-primer](https://github.com/donnemartin/system-design-primer)** &nbsp;·&nbsp; _7d ago_
-- ⭐ Starred **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** &nbsp;·&nbsp; _7d ago_
-- ⭐ Starred **[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** &nbsp;·&nbsp; _7d ago_
+- ⭐ Starred **[system-design-primer](https://github.com/donnemartin/system-design-primer)** &nbsp;·&nbsp; _8d ago_
+- ⭐ Starred **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** &nbsp;·&nbsp; _8d ago_
+- ⭐ Starred **[Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** &nbsp;·&nbsp; _8d ago_
 - ⭐ Starred **[public-apis](https://github.com/public-apis/public-apis)** &nbsp;·&nbsp; _14d ago_
-- ⭐ Starred **[free-claude-code](https://github.com/Alishahryar1/free-claude-code)** &nbsp;·&nbsp; _14d ago_
+- ⭐ Starred **[free-claude-code](https://github.com/Alishahryar1/free-claude-code)** &nbsp;·&nbsp; _15d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-08-28 21:45 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-08-29 05:53 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
