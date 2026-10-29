@@ -30,8 +30,6 @@ jobs:
       - name: Regenerate dynamic sections
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Optional — add this repo secret to enable the WakaTime section
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: python .github/scripts/update_readme.py
 
       - name: Commit & push if changed
