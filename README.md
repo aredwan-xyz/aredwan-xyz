@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
+- log full Gemini error so billing vs retired-model failures are distinguishable
+- 🗓️ [2026-10-31] Daily Index — All feeds archived & indexed
+- fix: update retired Gemini models, fall through on 404, fix GitHub Models end…
 - 🗓️ [2026-10-30] Daily Index — All feeds archived & indexed
-- 🗓️ [2026-10-29] Daily Index — All feeds archived & indexed
-- 🗓️ [2026-10-28] Daily Index — All feeds archived & indexed
-- 🗓️ [2026-10-27] Daily Index — All feeds archived & indexed
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _17h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _19h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _21h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _21h ago_<br>📦 **[codebeez-innovation-resources](https://github.com/aredwan-xyz/codebeez-innovation-resources)** — The most comprehensive AI, Innovation & Technology resource hub by CodeBeez &nbsp;·&nbsp; _1d ago_<br>🐍 **[codebeez-ai-autopilot](https://github.com/aredwan-xyz/codebeez-ai-autopilot)** — The CodeBeez AI Business Autopilot System is a production-ready, multi-agent automation framew… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2d ago_
+🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _3h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22h ago_<br>📦 **[codebeez-innovation-resources](https://github.com/aredwan-xyz/codebeez-innovation-resources)** — The most comprehensive AI, Innovation & Technology resource hub by CodeBeez &nbsp;·&nbsp; _1d ago_<br>🐍 **[codebeez-ai-autopilot](https://github.com/aredwan-xyz/codebeez-ai-autopilot)** — The CodeBeez AI Business Autopilot System is a production-ready, multi-agent automation framew… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>23</b> public repos &nbsp;·&nbsp; <b>⭐ 12</b> stars earned &nbsp;·&nbsp; <b>9</b> followers
+<b>23</b> public repos &nbsp;·&nbsp; <b>⭐ 13</b> stars earned &nbsp;·&nbsp; <b>10</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-10-31 11:46 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-10-31 16:53 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
