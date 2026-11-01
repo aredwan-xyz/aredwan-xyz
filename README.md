@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 📰 [2026-11-01] Tech News Digest — AI & dev top stories
-- 📚 [2026-10-31] Learning Pick — Best resource of the day
-- 📊 [2026-10-31] Market Pulse — AI jobs & skills in demand
-- 🔐 [2026-10-31] Security Pulse — CVEs & advisories summarized
+- 🛠️ [2026-11-01] Tool Spotlight: uv
+- 🗓️ [2026-11-01] Daily Index — All feeds archived & indexed
+- 📚 [2026-11-01] Learning Pick — Best resource of the day
+- 📊 [2026-11-01] Market Pulse — AI jobs & skills in demand
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _33m ago_<br>🐍 **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** — The open-source flight recorder and preflight safety checklist for AI agents. &nbsp;·&nbsp; _14h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 9 &nbsp;·&nbsp; _14h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _19h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _23h ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _52m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 10 &nbsp;·&nbsp; _5h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _7h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _7h ago_<br>🐍 **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** — The open-source flight recorder and preflight safety checklist for AI agents. &nbsp;·&nbsp; _23h ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
+- ⭐ Starred **[anatomy](https://github.com/wheresryan22/anatomy)** &nbsp;·&nbsp; _3h ago_
 - ✨ Created branch in **[comics-page](https://github.com/aredwan-xyz/comics-page)** &nbsp;·&nbsp; _3d ago_
 - ✨ Created branch in **[career-os-framework](https://github.com/aredwan-xyz/career-os-framework)** &nbsp;·&nbsp; _3d ago_
 - 📦 Pushed `1` commit to **[ai-robotics-engineering](https://github.com/aredwan-xyz/ai-robotics-engineering)** &nbsp;·&nbsp; _3d ago_
 - ✨ Created branch in **[aredwan-xyz](https://github.com/aredwan-xyz/aredwan-xyz)** &nbsp;·&nbsp; _3d ago_
-- ✨ Created branch in **[ai-robotics-engineering](https://github.com/aredwan-xyz/ai-robotics-engineering)** &nbsp;·&nbsp; _3d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>23</b> public repos &nbsp;·&nbsp; <b>⭐ 13</b> stars earned &nbsp;·&nbsp; <b>10</b> followers
+<b>23</b> public repos &nbsp;·&nbsp; <b>⭐ 14</b> stars earned &nbsp;·&nbsp; <b>10</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-01 12:45 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-01 21:44 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
