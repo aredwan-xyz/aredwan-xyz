@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 📰 [2026-11-05] Tech News Digest — AI & dev top stories
 - 🗓️ [2026-11-05] Daily Index — All feeds archived & indexed
 - 📚 [2026-11-05] Learning Pick — Best resource of the day
 - 📊 [2026-11-05] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-11-05] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _28m ago_<br>📦 **[gamedev](https://github.com/aredwan-xyz/gamedev)** — A curated collection of game engines, frameworks, art, audio and design resources for game dev… &nbsp;·&nbsp; _8h ago_<br>📦 **[smart-space-ai-stack](https://github.com/aredwan-xyz/smart-space-ai-stack)** — IoT sensors plus AI inference: building rooms and buildings that respond to the people inside. &nbsp;·&nbsp; _8h ago_<br>📦 **[multi-agent-cookbook](https://github.com/aredwan-xyz/multi-agent-cookbook)** — Self-contained recipes for orchestrating multi-agent AI systems, with code you can adapt. &nbsp;·&nbsp; _8h ago_<br>📦 **[ai-ux-design-patterns](https://github.com/aredwan-xyz/ai-ux-design-patterns)** — 40 interface patterns for AI products that go beyond the chat box. Framework-agnostic, with re… &nbsp;·&nbsp; _8h ago_<br>📦 **[awesome-ai-agents](https://github.com/aredwan-xyz/awesome-ai-agents)** — A curated list of 115 frameworks, tools, papers and guides for building AI agents. &nbsp;·&nbsp; _8h ago_
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _5h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _7h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _8h ago_<br>📦 **[gamedev](https://github.com/aredwan-xyz/gamedev)** — A curated collection of game engines, frameworks, art, audio and design resources for game dev… &nbsp;·&nbsp; _17h ago_<br>📦 **[smart-space-ai-stack](https://github.com/aredwan-xyz/smart-space-ai-stack)** — IoT sensors plus AI inference: building rooms and buildings that respond to the people inside. &nbsp;·&nbsp; _17h ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,10 +171,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `1` commit to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _2d ago_
-- 📦 Pushed `1` commit to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _4d ago_
+- 📦 Pushed `1` commit to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _3d ago_
+- 📦 Pushed `1` commit to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _5d ago_
 - 📦 Pushed `2` commits to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _5d ago_
-- ⭐ Starred **[anatomy](https://github.com/wheresryan22/anatomy)** &nbsp;·&nbsp; _3d ago_
+- ⭐ Starred **[anatomy](https://github.com/wheresryan22/anatomy)** &nbsp;·&nbsp; _4d ago_
 - ✨ Created branch in **[comics-page](https://github.com/aredwan-xyz/comics-page)** &nbsp;·&nbsp; _7d ago_
 
 <!-- ACTIVITY:END -->
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-05 14:05 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-05 23:19 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
