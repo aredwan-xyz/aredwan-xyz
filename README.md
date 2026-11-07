@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 📰 [2026-11-07] Tech News Digest — AI & dev top stories
-- 🗓️ [2026-11-06] Daily Index — All feeds archived & indexed
-- 📚 [2026-11-06] Learning Pick — Best resource of the day
-- 📊 [2026-11-06] Market Pulse — AI jobs & skills in demand
+- 🗓️ [2026-11-07] Daily Index — All feeds archived & indexed
+- 📚 [2026-11-07] Learning Pick — Best resource of the day
+- 📊 [2026-11-07] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-11-07] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _33m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _16h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _20h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _21h ago_<br>📦 **[gamedev](https://github.com/aredwan-xyz/gamedev)** — A curated collection of game engines, frameworks, art, audio and design resources for game dev… &nbsp;·&nbsp; _2d ago_<br>📦 **[smart-space-ai-stack](https://github.com/aredwan-xyz/smart-space-ai-stack)** — IoT sensors plus AI inference: building rooms and buildings that respond to the people inside. &nbsp;·&nbsp; _2d ago_
+🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _5h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 11 &nbsp;·&nbsp; _5h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _6h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _7h ago_<br>📦 **[gamedev](https://github.com/aredwan-xyz/gamedev)** — A curated collection of game engines, frameworks, art, audio and design resources for game dev… &nbsp;·&nbsp; _2d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,10 +171,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `1` commit to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _4d ago_
+- 📦 Pushed `1` commit to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _5d ago_
 - 📦 Pushed `1` commit to **[agenttrust-os](https://github.com/aredwan-xyz/agenttrust-os)** &nbsp;·&nbsp; _6d ago_
-- 📦 Pushed `2` commits to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _6d ago_
-- ⭐ Starred **[anatomy](https://github.com/wheresryan22/anatomy)** &nbsp;·&nbsp; _5d ago_
+- 📦 Pushed `2` commits to **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** &nbsp;·&nbsp; _7d ago_
+- ⭐ Starred **[anatomy](https://github.com/wheresryan22/anatomy)** &nbsp;·&nbsp; _6d ago_
 - ✨ Created branch in **[comics-page](https://github.com/aredwan-xyz/comics-page)** &nbsp;·&nbsp; _9d ago_
 
 <!-- ACTIVITY:END -->
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>28</b> public repos &nbsp;·&nbsp; <b>⭐ 15</b> stars earned &nbsp;·&nbsp; <b>10</b> followers
+<b>28</b> public repos &nbsp;·&nbsp; <b>⭐ 15</b> stars earned &nbsp;·&nbsp; <b>9</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-07 12:32 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-07 21:29 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
