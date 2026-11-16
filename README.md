@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
+- 📰 [2026-11-16] Tech News Digest — AI & dev top stories
 - 🗓️ [2026-11-15] Daily Index — All feeds archived & indexed
 - 📚 [2026-11-15] Learning Pick — Best resource of the day
 - 📊 [2026-11-15] Market Pulse — AI jobs & skills in demand
-- 🔐 [2026-11-15] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** — Mission Mars: Grand Theft Rover — NASA Space Apps 2026 &nbsp;·&nbsp; _2h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _9h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _11h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 11 &nbsp;·&nbsp; _12h ago_<br>🟨 **[red-dust](https://github.com/aredwan-xyz/red-dust)** — Red Dust: an open-world Mars game prototype in the browser. Drive a rover, take jobs, survive… &nbsp;·&nbsp; _13h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _13h ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _48m ago_<br>🟨 **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** — Mission Mars: Grand Theft Rover — NASA Space Apps 2026 &nbsp;·&nbsp; _12h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _19h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 11 &nbsp;·&nbsp; _22h ago_<br>🟨 **[red-dust](https://github.com/aredwan-xyz/red-dust)** — Red Dust: an open-world Mars game prototype in the browser. Drive a rover, take jobs, survive… &nbsp;·&nbsp; _23h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _23h ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
+- 📦 Pushed `1` commit to **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** &nbsp;·&nbsp; _12h ago_
 - ✨ Created branch in **[margin-mission-game](https://github.com/aredwan-xyz/margin-mission-game)** &nbsp;·&nbsp; _1d ago_
-- ✨ Created branch in **[red-dust](https://github.com/aredwan-xyz/red-dust)** &nbsp;·&nbsp; _13h ago_
+- ✨ Created branch in **[red-dust](https://github.com/aredwan-xyz/red-dust)** &nbsp;·&nbsp; _23h ago_
 - ✨ Created branch in **[awesome-space-data](https://github.com/aredwan-xyz/awesome-space-data)** &nbsp;·&nbsp; _1d ago_
 - 📦 Pushed `1` commit to **[margin-mission-game](https://github.com/aredwan-xyz/margin-mission-game)** &nbsp;·&nbsp; _1d ago_
-- ⭐ Starred **[Qiskit_Fall_Fest_2026_MUN](https://github.com/zyxsjdy/Qiskit_Fall_Fest_2026_MUN)** &nbsp;·&nbsp; _6d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-16 05:02 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-16 14:57 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
