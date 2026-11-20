@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 11 &nbsp;·&nbsp; _1h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _3h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22h ago_<br>🟨 **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** — Mission Mars: Grand Theft Rover — NASA Space Apps 2026 &nbsp;·&nbsp; _3d ago_
+🟨 **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** — AI website intake agent demo: extracts lead details, scores, dedupes into CRM, alerts the team… &nbsp;·&nbsp; _7h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _8h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _10h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 11 &nbsp;·&nbsp; _11h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _12h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _13h ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -172,8 +172,8 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 <!-- ACTIVITY:START -->
 
 - ⭐ Starred **[unslop](https://github.com/heydamir/unslop)** &nbsp;·&nbsp; _1d ago_
-- ⭐ Starred **[jarvis-voice-assistant](https://github.com/Julian-Ivanov/jarvis-voice-assistant)** &nbsp;·&nbsp; _1d ago_
-- 📦 Pushed `1` commit to **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** &nbsp;·&nbsp; _3d ago_
+- ⭐ Starred **[jarvis-voice-assistant](https://github.com/Julian-Ivanov/jarvis-voice-assistant)** &nbsp;·&nbsp; _2d ago_
+- 📦 Pushed `1` commit to **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** &nbsp;·&nbsp; _4d ago_
 - ✨ Created branch in **[margin-mission-game](https://github.com/aredwan-xyz/margin-mission-game)** &nbsp;·&nbsp; _5d ago_
 - ✨ Created branch in **[red-dust](https://github.com/aredwan-xyz/red-dust)** &nbsp;·&nbsp; _4d ago_
 
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>32</b> public repos &nbsp;·&nbsp; <b>⭐ 15</b> stars earned &nbsp;·&nbsp; <b>7</b> followers
+<b>33</b> public repos &nbsp;·&nbsp; <b>⭐ 15</b> stars earned &nbsp;·&nbsp; <b>7</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -291,10 +291,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 <!-- LANGS:START -->
 
 ```text
-🟨 JavaScript   ████████░░░░░░░░░░░░░░░░  34.3%
-🐍 Python       ███████░░░░░░░░░░░░░░░░░  30.0%
-🌐 HTML         ██████░░░░░░░░░░░░░░░░░░  24.2%
-🎨 CSS          ██░░░░░░░░░░░░░░░░░░░░░░  10.1%
+🟨 JavaScript   █████████░░░░░░░░░░░░░░░  35.6%
+🐍 Python       ███████░░░░░░░░░░░░░░░░░  28.7%
+🌐 HTML         ██████░░░░░░░░░░░░░░░░░░  23.6%
+🎨 CSS          ███░░░░░░░░░░░░░░░░░░░░░  10.6%
 ⚙️ C++          ░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 🐚 Shell        ░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-19 20:01 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-20 05:56 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
