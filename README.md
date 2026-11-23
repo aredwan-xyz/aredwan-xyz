@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** — AI Security in 90 Days: a builder's roadmap from first lab to published security assessment. P… &nbsp;·&nbsp; _49m ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _3h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _5h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _7h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _8h ago_<br>🟨 **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** — AI website intake agent demo: extracts lead details, scores, dedupes into CRM, alerts the team… &nbsp;·&nbsp; _3d ago_
+🟨 **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** — AI Security in 90 Days: a builder's roadmap from first lab to published security assessment. P… &nbsp;·&nbsp; _1h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _9h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _12h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _14h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _14h ago_<br>🟨 **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** — AI website intake agent demo: extracts lead details, scores, dedupes into CRM, alerts the team… &nbsp;·&nbsp; _3d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `2` commits to **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _2h ago_
+- 📦 Pushed `3` commits to **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _7h ago_
 - ✨ Created branch in **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** &nbsp;·&nbsp; _3d ago_
 - ⭐ Starred **[unslop](https://github.com/heydamir/unslop)** &nbsp;·&nbsp; _4d ago_
-- ⭐ Starred **[jarvis-voice-assistant](https://github.com/Julian-Ivanov/jarvis-voice-assistant)** &nbsp;·&nbsp; _4d ago_
-- 📦 Pushed `1` commit to **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** &nbsp;·&nbsp; _6d ago_
+- ⭐ Starred **[jarvis-voice-assistant](https://github.com/Julian-Ivanov/jarvis-voice-assistant)** &nbsp;·&nbsp; _5d ago_
+- 📦 Pushed `1` commit to **[mission-mars](https://github.com/aredwan-xyz/mission-mars)** &nbsp;·&nbsp; _7d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -291,12 +291,12 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 <!-- LANGS:START -->
 
 ```text
-🟨 JavaScript   █████████░░░░░░░░░░░░░░░  35.6%
-🐍 Python       ███████░░░░░░░░░░░░░░░░░  28.7%
-🌐 HTML         ██████░░░░░░░░░░░░░░░░░░  23.6%
-🎨 CSS          ███░░░░░░░░░░░░░░░░░░░░░  10.6%
-⚙️ C++          ░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
-🐚 Shell        ░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+🟨 JavaScript   █████████░░░░░░░░░░░░░░░  38.6%
+🐍 Python       ██████░░░░░░░░░░░░░░░░░░  25.6%
+🌐 HTML         █████░░░░░░░░░░░░░░░░░░░  21.0%
+🎨 CSS          ███░░░░░░░░░░░░░░░░░░░░░  13.5%
+⚙️ C++          ░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+🐚 Shell        ░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- LANGS:END -->
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-22 23:17 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-23 06:01 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
