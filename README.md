@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 🗓️ [2026-11-24] Daily Index — All feeds archived & indexed
-- 📚 [2026-11-24] Learning Pick — Best resource of the day
-- 📊 [2026-11-24] Market Pulse — AI jobs & skills in demand
-- 🔐 [2026-11-24] Security Pulse — CVEs & advisories summarized
+- 🗓️ [2026-11-25] Daily Index — All feeds archived & indexed
+- 📚 [2026-11-25] Learning Pick — Best resource of the day
+- 📊 [2026-11-25] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-11-25] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _8h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _10h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _11h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _12h ago_<br>🟨 **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** — AI Security in 90 Days: a builder's roadmap from first lab to published security assessment. P… &nbsp;·&nbsp; _2d ago_<br>🟨 **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** — AI website intake agent demo: extracts lead details, scores, dedupes into CRM, alerts the team… &nbsp;·&nbsp; _5d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _3h ago_<br>🐍 **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** — Faceless AI video automation — generates & posts short-form videos daily on a free stack (Groq… &nbsp;·&nbsp; ⭐ 11 &nbsp;·&nbsp; _5h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _22h ago_<br>🟨 **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** — AI Security in 90 Days: a builder's roadmap from first lab to published security assessment. P… &nbsp;·&nbsp; _2d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,10 +171,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- ✨ Created branch in **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _2d ago_
+- ✨ Created branch in **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _3d ago_
 - 📦 Pushed `3` commits to **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _2d ago_
 - ✨ Created branch in **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** &nbsp;·&nbsp; _5d ago_
-- ⭐ Starred **[unslop](https://github.com/heydamir/unslop)** &nbsp;·&nbsp; _6d ago_
+- ⭐ Starred **[unslop](https://github.com/heydamir/unslop)** &nbsp;·&nbsp; _7d ago_
 - ⭐ Starred **[jarvis-voice-assistant](https://github.com/Julian-Ivanov/jarvis-voice-assistant)** &nbsp;·&nbsp; _7d ago_
 
 <!-- ACTIVITY:END -->
@@ -291,12 +291,12 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 <!-- LANGS:START -->
 
 ```text
-🟨 JavaScript   █████████░░░░░░░░░░░░░░░  38.6%
-🐍 Python       ██████░░░░░░░░░░░░░░░░░░  25.6%
-🌐 HTML         █████░░░░░░░░░░░░░░░░░░░  21.0%
-🎨 CSS          ███░░░░░░░░░░░░░░░░░░░░░  13.5%
+🟨 JavaScript   █████████░░░░░░░░░░░░░░░  38.3%
+🐍 Python       ██████░░░░░░░░░░░░░░░░░░  25.4%
+🌐 HTML         █████░░░░░░░░░░░░░░░░░░░  20.8%
+🎨 CSS          ███░░░░░░░░░░░░░░░░░░░░░  13.4%
+🟦 TypeScript   ░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 ⚙️ C++          ░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
-🐚 Shell        ░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- LANGS:END -->
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-25 07:15 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-25 21:08 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
