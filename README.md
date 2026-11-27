@@ -142,10 +142,10 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- TECHPULSE:START -->
 
-- 🗓️ [2026-11-26] Daily Index — All feeds archived & indexed
-- 📚 [2026-11-26] Learning Pick — Best resource of the day
-- 📊 [2026-11-26] Market Pulse — AI jobs & skills in demand
-- 🔐 [2026-11-26] Security Pulse — CVEs & advisories summarized
+- 🗓️ [2026-11-27] Daily Index — All feeds archived & indexed
+- 📚 [2026-11-27] Learning Pick — Best resource of the day
+- 📊 [2026-11-27] Market Pulse — AI jobs & skills in demand
+- 🔐 [2026-11-27] Security Pulse — CVEs & advisories summarized
 
 > 🔄 Pulled live from [`techpulse-daily`](https://github.com/aredwan-xyz/techpulse-daily) — my AI intelligence feed, regenerated every day.
 
@@ -159,7 +159,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- LATEST_BUILDS:START -->
 
-🌐 **[hq](https://github.com/aredwan-xyz/hq)** — Landing page for HQ, a private operating system for a one-person studio. &nbsp;·&nbsp; _10h ago_<br>🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _11h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _12h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _13h ago_<br>🌐 **[HyperlocalX](https://github.com/aredwan-xyz/HyperlocalX)** &nbsp;·&nbsp; _16h ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1d ago_
+🐍 **[techpulse-daily](https://github.com/aredwan-xyz/techpulse-daily)** — TechPulse Daily Digest is an AI automated daily intelligence feed for developers and engineers. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1h ago_<br>🐍 **[ai-news-tracker](https://github.com/aredwan-xyz/ai-news-tracker)** — Automatically fetches and archives daily AI news from top sources using GitHub Actions. &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _2h ago_<br>🐍 **[remote-jobs-ai-curator](https://github.com/aredwan-xyz/remote-jobs-ai-curator)** — Every remote AI job on the internet — automatically tracked, curated & committed daily. A Code… &nbsp;·&nbsp; _3h ago_<br>🌐 **[HyperlocalX](https://github.com/aredwan-xyz/HyperlocalX)** &nbsp;·&nbsp; _6h ago_<br>🌐 **[hq](https://github.com/aredwan-xyz/hq)** — Landing page for HQ, a private operating system for a one-person studio. &nbsp;·&nbsp; _1d ago_<br>🟨 **[viralengine-daily](https://github.com/aredwan-xyz/viralengine-daily)** — Self-updating content site: a daily GitHub Action pulls real trending items, an AI writes grou… &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; _1d ago_
 
 <!-- LATEST_BUILDS:END -->
 
@@ -171,11 +171,11 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- ACTIVITY:START -->
 
-- 📦 Pushed `1` commit to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _1d ago_
-- ✨ Created branch in **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _4d ago_
+- 📦 Pushed `1` commit to **[video-autopilot](https://github.com/aredwan-xyz/video-autopilot)** &nbsp;·&nbsp; _2d ago_
+- ✨ Created branch in **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _5d ago_
 - 📦 Pushed `3` commits to **[cybersec-roadmap](https://github.com/aredwan-xyz/cybersec-roadmap)** &nbsp;·&nbsp; _4d ago_
 - ✨ Created branch in **[ai-intake-agent](https://github.com/aredwan-xyz/ai-intake-agent)** &nbsp;·&nbsp; _7d ago_
-- ⭐ Starred **[unslop](https://github.com/heydamir/unslop)** &nbsp;·&nbsp; _8d ago_
+- ⭐ Starred **[unslop](https://github.com/heydamir/unslop)** &nbsp;·&nbsp; _9d ago_
 
 <!-- ACTIVITY:END -->
 
@@ -280,7 +280,7 @@ A free, evidence-based learning platform for anyone exploring or deepening their
 
 <!-- SNAPSHOT:START -->
 
-<b>35</b> public repos &nbsp;·&nbsp; <b>⭐ 15</b> stars earned &nbsp;·&nbsp; <b>7</b> followers
+<b>35</b> public repos &nbsp;·&nbsp; <b>⭐ 16</b> stars earned &nbsp;·&nbsp; <b>7</b> followers
 
 <!-- SNAPSHOT:END -->
 
@@ -356,7 +356,7 @@ Best fit: a problem nobody's solved yet.
 
 <!-- UPDATED:START -->
 
-<sub>🔄 Last refreshed 2026-11-27 06:59 UTC · auto-updates every 6h via GitHub Actions</sub>
+<sub>🔄 Last refreshed 2026-11-27 20:44 UTC · auto-updates every 6h via GitHub Actions</sub>
 
 <!-- UPDATED:END -->
 
